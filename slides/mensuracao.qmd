@@ -1,0 +1,349 @@
+---
+title: "Amostragem e mensuração"
+author: "José de Jesus Filho"
+format: revealjs
+editor: visual
+---
+
+## O problema da mensuração
+
+- "Eu conheço quando vejo" - Potter Stewart - Juiz associado da Suprema Corte dos EUA
+  ao falar de obscenidade.
+- Quão honesta é uma pessoa?
+
+É possível mensurar tudo o que vivenciamos ou observamos?
+
+Tanto quanto possível, devemos estar confiantes de que nossos conceitos teóricos sejam próximos de nossas observações empíricas.
+
+## A Importância da Medição em Ciências Sociais
+
+Por vezes, o relacionamento que mais nos interessa é aquele que não podemos observar diretamente. Portanto, precisamos confiar em medidas potencialmente imperfeitas dos conceitos que valorizamos.
+
+Isso significa que medir nossos conceitos com cuidado é uma das partes mais importantes (e negligenciadas) das ciências sociais.
+
+
+## O problema da operacionalização
+
+- Muitos conceitos em ciências sociais e especialmente no direito são elusivos
+ e difíceis de serem observados empiricamente.
+ 
+- Para cada conceito teórico existem múltiplas estratégias de operacionalização.
+
+## Exemplos:
+
+- O que incluir na medição da pobreza
+- Como medir a inflação?
+- Como sei que uma pessoa é depressiva ou não e qual o seu grau?
+
+## Exemplos
+
+- Ativismo judicial
+- Voto motivamos por ideologia
+- Legitimidade política do governo
+- juiz conservador x juiz liberal
+
+# Três Aspectos Essenciais da Medição
+
+1. **Clareza Conceitual**: O que exatamente queremos medir?  
+2. **Confiabilidade**: A medida é consistente e replicável?  
+3. **Validade**: A medida reflete de fato o conceito que queremos medir? 
+
+## Clareza Conceitual
+
+Exemplo: Como medir "renda" em uma pesquisa?  
+
+1. "Qual é sua renda?"  
+2. "Qual foi o total de renda obtido no último ano por você e outros adultos do seu domicílio, incluindo todas as fontes?"  
+
+Uma pergunta mal formulada pode levar a respostas imprecisas.  
+
+## Confiabilidade
+
+Uma medida é confiável se produz resultados consistentes ao longo do tempo e entre diferentes avaliadores.  
+
+Exemplo:  
+- Uma balança confiável sempre mostra o mesmo peso para um mesmo objeto.  
+
+## Tipos de confiabilidade:  
+1. **Teste-reteste**: O mesmo teste aplicado duas vezes gera resultados similares?  
+2. **Consistência interna**: Os itens da medida estão correlacionados?  
+3. **Confiabilidade entre avaliadores**: Diferentes pesquisadores chegam à mesma conclusão?  
+
+
+## Validade
+
+Uma medida válida representa corretamente o conceito que pretende medir.  
+
+Exemplo:  
+- Para medir preconceito, basta perguntar diretamente "Você é preconceituoso?"  
+- Melhor abordagem: Testes implícitos ou cenários práticos.  
+
+Tipos de validade:  
+1. **Face**: Parece medir o conceito?  
+2. **Conteúdo**: Captura todos os aspectos do conceito?  
+3. **Construto**: Reflete a teoria subjacente?  
+
+## Variáveis
+
+Variável é uma característica que pode variar no seu valor entre sujeitos em 
+uma amostra o população. Seus valores formam um escala de mensuração.
+
+## 1. Variáveis Categóricas  
+
+📌 **Representam grupos ou categorias, sem valores numéricos significativos.**  
+
+### Exemplos:  
+- **Gênero**: Masculino, Feminino, Outro.  
+- **Estado Civil**: Solteiro, Casado, Divorciado.  
+- **Cor do carro**: Azul, Vermelho, Preto.  
+
+📊 **Métricas adequadas**: Moda, proporções, tabelas de frequência.  
+
+##  Variáveis Quantitativas  
+
+📌 **Representam quantidades numéricas e permitem operações matemáticas significativas.**  
+
+### Exemplos:  
+- **Idade** (em anos).  
+- **Salário** (em reais).  
+- **Número de filhos**.  
+
+📊 **Métricas adequadas**: Média, mediana, desvio-padrão, histogramas.  
+
+## Diferença Entre os Tipos  
+
+| Característica        | Categórica            | Quantitativa |
+|----------------------|---------------------|--------------|
+| Representação       | Grupos ou categorias | Números reais |
+| Operações matemáticas | 🚫 Não aplicáveis   | ✅ Possíveis |
+| Exemplos            | Gênero, Religião, Cor | Idade, Renda, Altura |
+
+
+## Subtipos de Variáveis Quantitativas  
+
+1️⃣ **Discretas**: Valores contáveis e inteiros.  
+   - Exemplo: Número de filhos (0, 1, 2, 3...).  
+
+2️⃣ **Contínuas**: Podem assumir qualquer valor em um intervalo.  
+   - Exemplo: Altura (1,75m, 1,82m, etc.).  
+
+
+## Escalas de Mensuração  
+
+A **mensuração** em ciências sociais classifica variáveis em diferentes escalas, dependendo das propriedades matemáticas que possuem.  
+
+As principais escalas são:  
+1️⃣ **Nominal**  
+2️⃣ **Ordinal**  
+3️⃣ **Intervalar**  
+
+
+
+## 1️⃣ Escala Nominal  
+
+📌 **Apenas classifica categorias sem ordem ou hierarquia.**  
+
+✅ **Características:**  
+- **Categórica**: Os valores representam grupos distintos.  
+- **Sem ordem ou diferença numérica significativa**.  
+---
+
+🎯 **Exemplos:**  
+- Gênero: Masculino, Feminino, Outro.  
+- Cores: Azul, Vermelho, Verde.  
+- Estado civil: Solteiro, Casado, Divorciado.  
+
+📊 **Análises possíveis:**  
+- Cálculo de **moda** (categoria mais frequente).  
+- Tabelas de frequência.  
+
+🚫 **Não permite cálculos de média ou ordem numérica.**  
+
+
+## Escala Ordinal  
+
+📌 **Classifica categorias com uma ordem lógica, mas sem intervalos fixos.**  
+
+✅ **Características:**  
+- Os valores possuem uma **hierarquia**.  
+- **Não há garantia de que a diferença entre categorias seja uniforme.**  
+---
+
+🎯 **Exemplos:**  
+- Grau de escolaridade: Fundamental, Médio, Superior.  
+- Satisfação com um serviço: Insatisfeito, Neutro, Satisfeito.  
+- Classe social: Baixa, Média, Alta.  
+---
+
+📊 **Análises possíveis:**  
+- Cálculo de **moda e mediana**.  
+- Comparações de maior ou menor.  
+
+🚫 **Não permite cálculo de média ou diferenças exatas entre categorias.**  
+
+---
+
+## Escala Intervalar  
+
+📌 **Permite medir diferenças numéricas exatas, mas sem um zero absoluto.**  
+
+✅ **Características:**  
+- As diferenças entre valores **são iguais**.  
+- **Não há um ponto zero absoluto** (zero não significa "ausência" da característica).
+---
+
+🎯 **Exemplos:**  
+- Temperatura em Celsius ou Fahrenheit (0°C não significa ausência de calor).  
+- Testes de inteligência (Q.I.).  
+- Faixa etária
+
+📊 **Análises possíveis:**  
+- Cálculo de **média, mediana, variância e desvio-padrão**.  
+- Operações de soma e subtração.  
+
+🚫 **Não permite comparações proporcionais** (ex.: 20°C não é "o dobro" de 10°C).  
+
+---
+
+## Comparação das Escalas  
+
+| Escala       | Ordem? | Diferença Igual? | Zero Significativo? | Exemplo |
+|-------------|-------|-----------------|--------------------|---------|
+| **Nominal**  | ❌ Não | ❌ Não | ❌ Não | Cores, Gênero |
+| **Ordinal**  | ✅ Sim | ❌ Não | ❌ Não | Satisfação, Classe social |
+| **Intervalar** | ✅ Sim | ✅ Sim | ❌ Não | Temperatura em °C, Q.I. |
+
+---
+
+## Amostragm e aleatorização :  
+1️⃣ Amostragem  
+2️⃣ Aleatorização  
+3️⃣ Experimentos vs. Observação  
+4️⃣ Variabilidade Amostral  
+5️⃣ Tendenciosidade Potencial  
+6️⃣ Erro Amostral  
+7️⃣ Métodos de Amostragem  
+
+---
+
+## Amostragem  
+
+📌 **Amostragem** é o processo de selecionar um subconjunto de uma população para análise.  
+
+🎯 **Por que usamos amostras?**  
+- Populações são **muito grandes** para estudar completamente.  
+- Coletar dados de **toda a população é caro e demorado**.  
+- Uma **boa amostra representa a população** com precisão.  
+
+---
+
+## Aleatorização  
+
+📌 **Aleatorização** significa que cada indivíduo da população tem **igual chance** de ser escolhido na amostra.  
+
+🎯 **Benefícios:**  
+✅ Reduz viés na seleção dos participantes.  
+✅ Garante que a amostra seja representativa.  
+✅ Permite aplicar estatísticas inferenciais.  
+
+🚨 **Sem aleatorização, os resultados podem ser enviesados!**  
+
+## 🔬 **Experimento**  
+- O pesquisador **manipula** variáveis e controla o ambiente.  
+- **Causa e efeito** pode ser analisado.  
+- Exemplo: Testar um novo medicamento em dois grupos (placebo x tratamento).  
+
+## 👀 **Observação**  
+- O pesquisador **não interfere** nas variáveis.  
+- Apenas **coleta e analisa dados** existentes.  
+- Exemplo: Analisar a relação entre exercício físico e saúde com base em pesquisas.  
+
+🚨 **Cuidado! Estudos observacionais não provam causalidade.**  
+
+
+## Variabilidade Amostral  
+
+📌 **Duas amostras da mesma população podem produzir resultados diferentes.**  
+
+🎯 **Fontes de variabilidade:**  
+- Tamanho da amostra.  
+- Diferenças naturais entre indivíduos.  
+- Métodos de coleta de dados.  
+
+✅ **Solução**: Usar amostras maiores e aleatórias para reduzir variação.  
+
+
+
+## Tendenciosidade Potencial  
+
+📌 **Viés ocorre quando os dados não representam a população corretamente.**  
+
+🎯 **Tipos de viés:**  
+- **Viés de seleção**: Amostra não representa toda a população.  
+- **Viés de resposta**: Algumas pessoas respondem de maneira diferente (ex.: vergonha, medo).  
+- **Viés do pesquisador**: Expectativas influenciam a interpretação dos dados.  
+
+✅ **Solução:** Aleatorizar, testar diferentes métodos de coleta e ser transparente.  
+
+---
+
+##  Erro Amostral  
+
+📌 **Erro amostral ocorre porque a amostra nunca é idêntica à população.**  
+
+🎯 **Como minimizar?**  
+✅ Aumentar o tamanho da amostra.  
+✅ Escolher amostras aleatórias e representativas.  
+✅ Evitar vieses na coleta de dados.  
+
+🚨 **Mesmo com boas práticas, um pequeno erro sempre existirá!**  
+
+---
+
+##  Métodos de Amostragem  
+
+Existem vários tipos de amostragem, cada um com vantagens e desvantagens.  
+
+## 1️⃣ Amostragem Aleatória Simples  
+📌 Todos os indivíduos têm a mesma chance de serem escolhidos.  
+✅ **Fácil de entender e imparcial.**  
+❌ Pode não representar bem grupos pequenos.  
+
+
+##  Amostragem Estratificada  
+📌 Divide a população em **grupos homogêneos (estratos)** e escolhe amostras de cada um.  
+✅ **Garante representatividade de subgrupos.**  
+❌ Exige informações prévias sobre a população.  
+
+**Exemplo:** Pesquisar hábitos de leitura em diferentes faixas etárias.  
+
+---
+
+##  Amostragem Sistemática  
+📌 Escolhe indivíduos a partir de um **intervalo fixo** (ex.: cada 10º nome em uma lista).  
+✅ **Simples de aplicar e eficiente.**  
+❌ Pode ser tendenciosa se houver padrões ocultos nos dados.  
+
+**Exemplo:** Selecionar alunos para um estudo a partir de uma lista de chamada.  
+
+---
+
+## Amostragem por Conglomerados  
+📌 Divide a população em **grupos naturais (conglomerados)** e seleciona alguns grupos inteiros.  
+✅ **Útil para populações grandes e dispersas.**  
+❌ Pode aumentar erro amostral se os grupos forem muito diferentes.  
+
+**Exemplo:** Escolher escolas aleatoriamente para pesquisar alunos.  
+
+---
+
+## Comparação dos Métodos  
+
+| Método | Como Funciona? | Vantagens | Desvantagens |
+|--------|--------------|-----------|--------------|
+| **Aleatória Simples** | Todos têm igual chance de ser escolhidos | Imparcial, fácil de entender | Pode não representar bem subgrupos |
+| **Estratificada** | Divide em grupos e escolhe proporcionalmente | Representação de subgrupos | Requer informações detalhadas |
+| **Sistemática** | Escolhe a cada X indivíduos | Rápida e eficiente | Pode ter viés se houver padrões ocultos |
+| **Conglomerados** | Seleciona grupos inteiros | Bom para populações grandes | Pode aumentar erro amostral |
+
+---
