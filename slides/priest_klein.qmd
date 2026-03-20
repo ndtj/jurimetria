@@ -1,0 +1,635 @@
+---
+title: "The selection of disputes for litigation"
+subtitle: "Priest & Klein (1984)"
+author: "Curso de Jurimetria"
+format: revealjs
+---
+
+## Por que este artigo é fundamental?
+
+- Publicado em 1984, no *Journal of Legal Studies*.
+- Um dos artigos mais influentes da Análise Econômica do Direito.
+- Base conceitual para:
+  - Estudos empíricos sobre decisões judiciais
+  - Análise de taxa de sucesso das partes
+  - Estudos sobre comportamento estratégico no processo
+  - Modelos modernos de seleção e viés amostral
+
+---
+
+Tese central:
+
+> Os casos que chegam a julgamento não são representativos do conjunto total de disputas.
+
+
+## O Problema metodológico central
+
+Grande parte do que sabemos sobre o direito vem de:
+
+- Decisões publicadas
+- Acórdãos
+- Julgamentos em segunda instância
+
+---
+
+Mas:
+
+- Apenas uma pequena fração das disputas chega a decisão de mérito.
+- Uma fração ainda menor chega à apelação.
+
+Pergunta crucial:
+
+> Podemos inferir como o direito opera a partir apenas dos casos julgados?
+
+
+## A Suposição implícita na literatura
+
+Muitos estudos assumem que:
+
+- Os casos julgados refletem o conjunto das disputas.
+- A taxa de vitória do autor mede:
+  - O viés judicial
+  - A inclinação ideológica
+  - A justiça do sistema
+  - A força substantiva da norma
+
+Priest & Klein mostram que essa suposição é equivocada.
+
+## Crítica a abordagens anteriores
+
+### Karl Llewellyn
+
+Tentou resolver o problema estudando:
+- Casos consecutivos
+- Decisões de um único tribunal
+- Decisões em um único dia
+
+---
+
+Problema:
+
+- O erro não está na amostragem dos recursos.
+- O erro está na seleção anterior — quais casos chegam ao julgamento.
+
+Ou seja:
+
+> A seleção ocorre antes da decisão judicial.
+
+
+## Inferências problemáticas
+
+Exemplos criticados no artigo:
+
+- Inferir eficiência da responsabilidade civil a partir de decisões.
+- Inferir viés do júri com base na taxa de vitória do autor.
+- Inferir equidade do sistema a partir de reversões.
+
+--- 
+
+Todas essas inferências ignoram:
+
+> O processo de seleção entre acordo e decisão.
+
+## A Ideia revolucionária
+
+O artigo propõe um modelo formal do processo de:
+
+- Acordo
+- Litigância
+
+Ideia central:
+
+- Casos fortes para o autor tendem a gerar acordo.
+- Casos fortes para o réu tendem a gerar acordo.
+- Apenas casos “marginais” vão a julgamento.
+
+---
+
+Assim:
+
+> O julgamento observa apenas uma fração específica e filtrada das disputas.
+
+
+## Determinantes da decisão de litigar
+
+A decisão entre acordo e julgamento depende de:
+
+1. Expectativa de êxito no julgamento
+2. Custos de litigância
+3. Custos de transação
+4. Valor econômico da causa
+5. Divergência de expectativas entre as partes
+
+---
+
+Se ambas concordam sobre o resultado esperado:
+
+→ Acordo.
+
+Se há divergência suficiente:
+
+→ Litígio -> decisão.
+
+
+## Suposição fundamental
+
+O modelo assume:
+
+- Partes racionais
+- Expectativas formadas com base na probabilidade de êxito
+- Aplicação consistente do padrão decisório pelo juiz ou júri
+
+O julgamento ocorre quando:
+
+> A diferença entre as expectativas supera os custos de litigar.
+
+---
+
+## O Modelo do “limite decisório”
+
+As disputas variam ao longo de um continuum:
+
+Exemplos:
+- Grau de culpa
+- Força da prova
+- Probabilidade de responsabilidade
+
+---
+
+Existe um ponto crítico (Y*):
+
+- Acima de Y* → Autor vence
+- Abaixo de Y* → Réu vence
+
+A litigância se concentra perto desse ponto.
+
+---
+
+## O Resultado dos 50%
+
+Sob condições simétricas:
+
+- Custos iguais
+- Informações simétricas
+- Mesmos incentivos
+- Aplicação consistente da norma
+
+---
+
+O modelo prevê:
+
+> A taxa de vitória do autor tenderá a 50%.
+
+Mesmo que a norma favoreça fortemente um dos lados.
+
+Este é o famoso **“50% Hypothesis”**.
+
+---
+
+## Por que 50%?
+
+Porque:
+
+- Casos muito favoráveis ao autor se resolvem por acordo.
+- Casos muito favoráveis ao réu também.
+
+Só restam para julgamento:
+
+- Casos próximos do limite decisório.
+- Casos com incerteza real.
+
+E nesses casos, a probabilidade é aproximadamente equilibrada.
+
+## Implicação metodológica profunda
+
+A taxa observada de vitória:
+
+- Não mede diretamente o viés do juiz.
+- Não mede diretamente a inclinação da norma.
+- Não mede necessariamente justiça substantiva.
+
+Ela mede:
+
+> O resultado de um processo estratégico de seleção.
+
+
+## Quando o resultado não é 50%?
+
+O artigo relaxa as hipóteses básicas.
+
+Desvios ocorrem quando há:
+
+- Custos assimétricos
+- Stakes assimétricos
+- Jogadores repetidos vs ocasionais
+- Diferença de informação
+- Incentivos estratégicos de longo prazo
+
+---
+
+## Assimetria de riscos(stakes)
+
+Exemplo clássico:
+
+- Consumidor (one-shot player)
+- Fabricante (repeat player)
+
+O fabricante:
+- Pode internalizar efeitos futuros.
+- Pode desejar criar precedentes.
+- Pode investir mais em litigância.
+
+---
+
+Resultado:
+
+> A taxa de vitória pode se afastar de 50%.
+
+
+title: "Priest & Klein (1984)"
+subtitle: "Seção II – Preliminary Assumptions"
+author: "Curso de Jurimetria"
+format: revealjs
+
+## Objetivo da Seção II
+
+- Formalizar o modelo de seleção
+- Explicitar pressupostos
+- Construir base matemática
+- Preparar a hipótese dos 50%
+
+Esta seção é o núcleo técnico do artigo.
+
+## O Que São “Preliminary Assumptions”?
+
+São hipóteses estruturais que:
+
+- Simplificam a realidade
+- Isolam o mecanismo de seleção
+- Permitem derivação formal
+
+Sem elas, o modelo não produz previsões claras.
+
+## Pressuposto 1  
+### O que é uma “disputa”?
+
+Uma disputa é:
+
+> Qualquer situação em que o autor formula uma pretensão contra o réu.
+
+Nada mais é modelado nesta etapa.
+
+## Pressuposto 2  
+### Como a disputa termina?
+
+Existem apenas duas possibilidades:
+
+- Veredicto (caso litigado)
+- Acordo (qualquer encerramento antes do veredicto)
+
+Somente veredictos são observáveis.
+
+## Implicação Empírica
+
+A base de dados judicial contém:
+
+- Apenas casos com veredicto
+- Nunca o universo completo de disputas
+
+Logo:
+
+Há seleção estrutural na amostra.
+
+## Pressuposto 3  
+### Estrutura Binária do Resultado
+
+O julgamento só pode resultar em:
+
+- Liability (autor vence)
+- No liability (réu vence)
+
+Não há gradação de responsabilidade nesta fase do modelo.
+
+## Pressuposto 4  
+### Distribuição Exógena das Disputas
+
+A distribuição inicial das disputas é:
+
+- Dada externamente
+- Não explicada pelo modelo
+
+O modelo explica resolução, não geração de litígios.
+
+## Pressuposto 5  
+### Modelo de Período Único
+
+Não há:
+
+- Estratégia intertemporal
+- Preocupação com precedentes
+- Reputação
+- Repetição do jogo
+
+É um modelo estático.
+
+## Por que isso importa?
+
+Se houvesse dinâmica:
+
+- Repeat players alterariam incentivos
+- Precedentes alterariam estratégia
+- O equilíbrio mudaria
+
+A hipótese dos 50% depende da ausência desses efeitos.
+
+## Pressuposto 6  
+### Existência de um Padrão Decisório (Y*)
+
+Existe um ponto de corte tal que:
+
+- Se Y > Y* → autor vence
+- Se Y < Y* → réu vence
+
+A decisão é um modelo de threshold.
+
+## O Que é Y?
+
+Y é:
+
+- Uma medida escalar dos fatos relevantes
+- Uma função H(X) que traduz fatos em culpa jurídica
+
+Transformação jurídica dos fatos.
+
+## Pressuposto 7  
+### Consistência na Aplicação
+
+O padrão é:
+
+- Aplicado consistentemente por um juiz específico
+
+Não é necessário uniformidade entre juízes.
+
+Mas é necessário previsibilidade suficiente.
+
+## Pressuposto 8  
+### Independência do Valor da Causa
+
+O ponto de corte Y*:
+
+- Não depende do valor monetário da causa
+
+O padrão jurídico é neutro em relação aos stakes.
+
+## Pressuposto 9  
+### Incerteza Imperfeita
+
+Cada caso tem um valor verdadeiro Y′.
+
+Mas as partes observam:
+
+Yp = Y′ + εp  
+Yd = Y′ + εd  
+
+Erros são:
+
+- Independentes
+- Média zero
+- Mesma variância
+
+## Interpretação
+
+As partes:
+
+- Não sabem o resultado com certeza
+- Estimam probabilidades
+- Podem divergir
+
+A divergência gera litigância.
+
+## Pressuposto 10  
+### Conhecimento da Distribuição
+
+Para calcular probabilidades, as partes devem conhecer:
+
+- Histórico de decisões
+- Distribuição de erros
+- Funcionamento do padrão decisório
+
+Isso sugere vantagem informacional de repeat players.
+
+## Pressuposto 11  
+### Simetria Inicial de Stakes
+
+O modelo assume:
+
+- Mesmo valor esperado do julgamento para ambas as partes
+- Sem efeitos futuros
+- Sem externalidades
+
+Simetria é essencial para o resultado dos 50%.
+
+## Estrutura Geral Criada
+
+Esses pressupostos criam:
+
+- Um ambiente simétrico
+- Um padrão decisório fixo
+- Incerteza probabilística
+- Incentivos racionais
+
+O próximo passo será:
+
+Derivar formalmente a condição de acordo vs julgamento.
+
+## Pergunta para Reflexão
+
+Se removemos:
+
+- Simetria?
+- Estática?
+- Informação perfeita sobre a distribuição?
+
+A taxa de vitória ainda tende a 50%?
+
+
+## Seção II
+
+- Formalizar o modelo de seleção  
+- Explicitar os pressupostos  
+- Construir a base matemática  
+- Preparar a hipótese dos 50%  
+
+Esta é a parte tecnicamente central do artigo.
+
+## O que são preliminary assumptions?
+
+São hipóteses estruturais que:
+
+- Simplificam a realidade  
+- Isolam o mecanismo de seleção  
+- Permitem derivação formal  
+
+Sem elas, o modelo não produz previsões claras.
+
+## Pressuposto 1: definição de disputa
+
+Uma disputa é:
+
+> Qualquer situação em que o autor formula uma pretensão contra o réu.
+
+O modelo começa apenas a partir da existência da disputa.
+
+## Pressuposto 2: formas de encerramento
+
+Uma disputa pode terminar em:
+
+- Decisão (Veridito) 
+- Acordo  
+
+Somente veriditos são considerados “litigados”.
+
+## Implicação empírica imediata
+
+A base observável contém:
+
+- Apenas casos com sentença  
+- Nunca o universo completo de disputas  
+
+Logo, há seleção estrutural na amostra.
+
+## Pressuposto 3: estrutura binária do resultado
+
+O julgamento só pode resultar em:
+
+- Liability (autor vence)  
+- No liability (réu vence)  
+
+Não há gradação nesta etapa do modelo.
+
+## Pressuposto 4: distribuição exógena das disputas
+
+A distribuição inicial das disputas é:
+
+- Dada externamente  
+- Não explicada pelo modelo  
+
+O modelo trata da resolução, não da origem dos litígios.
+
+## Pressuposto 5: modelo de período único
+
+Não há:
+
+- Estratégia intertemporal  
+- Preocupação com precedentes  
+- Reputação  
+- Repetição do jogo  
+
+O modelo é estático.
+
+## Por que isso importa?
+
+Se houvesse dinâmica:
+
+- Repeat players alterariam incentivos  
+- Precedentes alterariam estratégia  
+- O equilíbrio mudaria  
+
+A hipótese dos 50% depende dessa neutralidade.
+
+## Pressuposto 6: existência de um padrão decisório
+
+Existe um ponto de corte Y* tal que:
+
+- Se Y > Y* → autor vence  
+- Se Y < Y* → réu vence  
+
+A decisão judicial é modelada como um corte (threshold).
+
+## O que representa Y?
+
+Y é:
+
+- Uma medida escalar dos fatos relevantes  
+- Uma função H(X) que traduz fatos em padrão jurídico  
+
+É a transformação jurídica dos fatos do caso.
+
+## Pressuposto 7: consistência na aplicação
+
+O padrão decisório é:
+
+- Aplicado consistentemente por um juiz específico  
+
+Não exige uniformidade entre juízes.  
+Exige previsibilidade suficiente.
+
+## Pressuposto 8: independência do valor da causa
+
+O ponto de corte Y*:
+
+- Não depende do valor monetário da disputa  
+
+O padrão jurídico é neutro em relação aos stakes.
+
+## Pressuposto 9: incerteza imperfeita
+
+Cada caso possui um valor verdadeiro Y′.
+
+As partes observam:
+
+Yp = Y′ + εp  
+Yd = Y′ + εd  
+
+Há erro, mas não viés sistemático.
+
+## Características do erro
+
+Os erros são:
+
+- Independentes  
+- Média zero  
+- Mesma variância  
+
+As partes erram, mas de forma simétrica.
+
+## Pressuposto 10: conhecimento da distribuição
+
+Para estimar probabilidades, as partes devem conhecer:
+
+- A distribuição dos erros  
+- O histórico decisório  
+- O funcionamento do padrão  
+
+Isso sugere vantagem informacional de litigantes experientes.
+
+## Pressuposto 11: simetria inicial de stakes
+
+O modelo assume:
+
+- Mesmo valor esperado do julgamento para ambas as partes  
+- Ausência de efeitos futuros  
+- Ausência de externalidades  
+
+A simetria é condição da hipótese dos 50%.
+
+## Estrutura criada pelos pressupostos
+
+O ambiente resultante é:
+
+- Simétrico  
+- Estático  
+- Probabilístico  
+- Baseado em regra de corte  
+
+O próximo passo será derivar a condição formal de acordo vs julgamento.
+
+## Pergunta para reflexão
+
+Se removermos:
+
+- A simetria?  
+- A ausência de dinâmica?  
+- A neutralidade do padrão?  
+
+A taxa de vitória ainda tenderia a 50%?

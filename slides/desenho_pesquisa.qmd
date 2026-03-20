@@ -1,0 +1,451 @@
+---
+title: "Desenho de Pesquisa no Direito"
+subtitle: "Introdução à pesquisa jurídica empírica"
+author: "José de Jesus Filho"
+date: today
+lang: pt
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    footer: "Desenho de Pesquisa no Direito"
+    transition: slide
+    incremental: false
+    fig-align: center
+---
+
+# Parte 1 {background-color="#1a1a2e"}
+
+## O que é um desenho de pesquisa?
+
+---
+
+## Pesquisa jurídica: o que fazemos de fato?
+
+Quando pesquisamos no Direito, costumamos:
+
+- Interpretar normas
+- Analisar jurisprudência
+- Construir argumentos doutrinários
+
+. . .
+
+Mas o campo jurídico também pode — e deve — responder perguntas como:
+
+> *A lei funcionou? Por quê? Para quem? Em que condições?*
+
+---
+
+## Definindo desenho de pesquisa
+
+> *"Um desenho de pesquisa é um plano que mostra, por meio de uma discussão do nosso modelo e dos nossos dados, como nós pretendemos usar nossa evidência para fazer inferências."*
+>
+> — King, Keohane & Verba (1994)
+
+. . .
+
+Em outras palavras: **como minha evidência sustenta minhas conclusões?**
+
+---
+
+## Por que isso importa para graduandos de Direito?
+
+::: {.columns}
+::: {.column width="50%"}
+**Sem desenho de pesquisa:**
+
+- Conclusões baseadas em impressões
+- Seleção enviesada de casos
+- Confusão entre opinião e achado
+- Dificuldade de replicação
+:::
+::: {.column width="50%"}
+**Com desenho de pesquisa:**
+
+- Transparência metodológica
+- Conclusões defensáveis
+- Possibilidade de revisão crítica
+- Base para políticas públicas
+:::
+:::
+
+---
+
+## Duas dimensões do desenho
+
+```
+┌──────────────────────────────────────────────────────┐
+│  DIMENSÃO AMPLA                                      │
+│  • Diálogo com a literatura existente                │
+│  • Relevância e originalidade da pergunta            │
+│  • Posicionamento teórico                            │
+└──────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────┐
+│  DIMENSÃO PRÁTICA                                    │
+│  • Formulação clara da pergunta                      │
+│  • Escolha do método de análise                      │
+│  • Coleta e organização dos dados                    │
+│  • Análise e apresentação dos resultados             │
+└──────────────────────────────────────────────────────┘
+```
+
+*(Silva, 2018)*
+
+---
+
+## Do problema à conclusão
+
+::: {style="font-size: 0.9em;"}
+| Etapa | O que envolve |
+|---|---|
+| **Pergunta de pesquisa** | O que quero saber? É factível responder? |
+| **Referencial teórico** | O que já se sabe sobre o tema? |
+| **Hipótese** | Que relação espero encontrar? |
+| **Operacionalização** | Como medir os conceitos? |
+| **Coleta de dados** | Quais evidências vou reunir? |
+| **Análise** | O que os dados mostram? |
+| **Conclusão** | Minha hipótese foi corroborada? |
+:::
+
+---
+
+## Uma boa pergunta de pesquisa
+
+Uma boa pergunta deve ser:
+
+- **Específica** — não "o sistema penal funciona?", mas "a progressão de regime reduz a reincidência?"
+- **Empírica** — respondível com evidências do mundo real
+- **Relevante** — conectada a um problema real ou a um debate na literatura
+- **Factível** — possível de responder com os dados disponíveis
+
+. . .
+
+::: {.callout-warning}
+**Evite:** perguntas puramente normativas como *"o aborto deveria ser legalizado?"* — estas não são perguntas de pesquisa científica.
+:::
+
+---
+
+## Afirmações empíricas vs. normativas
+
+::: {.columns}
+::: {.column width="50%"}
+**Afirmação normativa**
+
+Diz como o mundo *deveria* ser.
+
+> *"Réus pobres deveriam ter a mesma defesa que réus ricos."*
+:::
+::: {.column width="50%"}
+**Afirmação empírica**
+
+Diz como o mundo *é*.
+
+> *"Réus com defensor público têm taxas de condenação mais altas do que réus com advogado particular?"*
+:::
+:::
+
+. . .
+
+::: {.callout-note}
+A pesquisa científica opera no plano **empírico** — sem abandonar as implicações normativas dos achados.
+:::
+
+---
+
+# Parte 2 {background-color="#1a1a2e"}
+
+## Teoria, hipótese e teste empírico
+
+---
+
+## O que é uma teoria?
+
+> Uma **teoria** é uma tentativa de conjeturar sobre as *causas* de um fenômeno de interesse.
+>
+> *(Kellstedt & Whitten, 2015)*
+
+. . .
+
+Uma teoria não é:
+
+- Uma opinião pessoal
+- Uma descrição de fatos
+- Uma afirmação de valor
+
+. . .
+
+Uma teoria **é**:
+
+- Uma explicação *causal* — diz *por que* algo acontece
+- Geral o suficiente para se aplicar a mais de um caso
+- Testável com evidências empíricas
+
+---
+
+## Do fenômeno à teoria causal
+
+**Você observa:** decisões sobre prisão preventiva variam muito entre juízes para casos semelhantes.
+
+. . .
+
+**Pergunta:** *Por que juízes decidem de formas diferentes?*
+
+. . .
+
+**Teoria:** A formação e os valores do juiz influenciam suas decisões — não apenas a lei aplicada ao caso.
+
+---
+
+## Da teoria à hipótese
+
+> Uma **hipótese** é uma afirmação *testável* derivada da teoria, sobre a relação esperada entre variáveis.
+
+. . .
+
+**Exemplo:**
+
+- **Teoria:** o perfil do juiz influencia as decisões em prisão preventiva
+- **Hipótese:** juízes com carreira anterior no MP decretam prisão preventiva com maior frequência do que juízes oriundos da advocacia
+- **Hipótese nula:** a carreira anterior do juiz *não* afeta as decisões sobre prisão preventiva
+
+---
+
+## O papel da hipótese nula
+
+Cientistas são rigorosos consigo mesmos:
+
+- Por padrão, assumem que *não há relação* entre as variáveis (**hipótese nula**)
+- Só aceitam a hipótese quando as evidências são suficientemente fortes para descartar a hipótese nula
+- Mesmo com evidências favoráveis, permanecem abertos a novas refutações
+
+. . .
+
+::: {.callout-tip}
+**Diferença crucial:**  
+Um(a) **advogado(a)** busca *provar* sua tese.  
+Um(a) **cientista** busca *testar* sua hipótese — inclusive tentando refutá-la.
+:::
+
+---
+
+## O caminho completo
+
+```
+        Teoria causal
+               ↓
+           Hipótese
+               ↓
+       Teste empírico
+               ↓
+    Avaliação da hipótese
+               ↓
+   Avaliação da teoria causal
+               ↓
+    Conhecimento científico
+```
+
+*(Kellstedt & Whitten, 2015, Fig. 1.1)*
+
+---
+
+## Pensando com variáveis
+
+Toda hipótese envolve pelo menos duas variáveis:
+
+::: {.columns}
+::: {.column width="50%"}
+**Variável independente (X)**
+
+A *causa* teórica — o que usamos para explicar.
+
+*Ex.: carreira anterior do juiz*
+:::
+::: {.column width="50%"}
+**Variável dependente (Y)**
+
+O *efeito* — o fenômeno que queremos explicar.
+
+*Ex.: frequência de decretos de prisão preventiva*
+:::
+:::
+
+. . .
+
+> O valor de Y *depende* (em teoria) do valor de X.
+
+---
+
+## Cuidado: correlação ≠ causalidade
+
+::: {.callout-warning}
+**Exemplo clássico:** venda de sorvetes e homicídios aumentam juntos no verão.  
+Isso não significa que sorvete *causa* homicídio — ambos são causados pelo calor (**variável de confusão**).
+:::
+
+. . .
+
+**No Direito:**
+
+> Constatar que uma lei foi aprovada e depois o crime caiu **não prova** que a lei causou a queda.
+
+Podem existir outras explicações: mudança econômica, outras políticas simultâneas, variações demográficas...
+
+---
+
+## Regras do caminho científico
+
+Kellstedt & Whitten (2015) propõem cinco regras:
+
+1. **Desenvolva teorias causais** — pense em mecanismos, não só padrões
+2. **Não deixe os dados guiarem a teoria** — defina hipóteses *antes* de analisar
+3. **Use apenas evidências empíricas** — lógica interna não basta
+4. **Evite afirmações normativas** — separe o que *é* do que *deveria ser*
+5. **Busque generalização e parcimônia** — teorias simples e amplas valem mais
+
+---
+
+# Parte 3 {background-color="#1a1a2e"}
+
+## Aplicações no Direito: pesquisa jurídica empírica
+
+---
+
+## O que é pesquisa jurídica empírica?
+
+É a pesquisa que usa **dados do mundo real** para responder perguntas sobre o **direito em ação** — não apenas o direito nos livros.
+
+. . .
+
+| Direito nos livros | Direito em ação |
+|---|---|
+| O que a lei diz | Como a lei é aplicada |
+| Como deveria funcionar | Como funciona de fato |
+| Análise doutrinária | Análise de decisões, comportamentos, resultados |
+
+---
+
+## Exemplos de perguntas empíricas no Direito
+
+- Quais fatores influenciam a concessão de habeas corpus no STJ?
+- A reforma trabalhista de 2017 reduziu o número de ações na Justiça do Trabalho?
+- Réus negros recebem penas mais severas do que réus brancos para crimes equivalentes?
+- Quanto tempo leva, em média, um processo de usucapião em São Paulo?
+
+. . .
+
+Todas essas perguntas exigem **dados** — não apenas argumentação jurídica.
+
+---
+
+## Jurimetria: estatística aplicada ao Direito
+
+> **Jurimetria** é a aplicação de métodos quantitativos e estatísticos ao estudo do fenômeno jurídico.
+
+. . .
+
+**O que permite fazer:**
+
+- Mapear padrões em grandes volumes de decisões judiciais
+- Identificar disparidades no tratamento de casos semelhantes
+- Estimar tempo médio de tramitação de processos
+- Avaliar o impacto de mudanças legislativas
+
+---
+
+## Aplicando o desenho: estudo sobre prisão preventiva
+
+**Pergunta:** a raça do acusado influencia a decretação de prisão preventiva?
+
+. . .
+
+::: {style="font-size: 0.88em;"}
+| Etapa | Aplicação |
+|---|---|
+| **Teoria** | O sistema penal reproduz desigualdades raciais |
+| **Hipótese** | Acusados negros têm maior chance de ter prisão preventiva decretada, controlando outros fatores |
+| **Hipótese nula** | Raça não influencia a decisão |
+| **Dados** | Amostra de decisões de 1ª instância com informações sobre réu e caso |
+| **Método** | Regressão logística controlando por crime, antecedentes etc. |
+| **Conclusão** | Corroboração ou refutação da hipótese |
+:::
+
+---
+
+## Aplicando o desenho: impacto da Lei Maria da Penha
+
+**Pergunta:** a Lei Maria da Penha (2006) reduziu os homicídios de mulheres?
+
+. . .
+
+- **Estratégia:** comparar taxas de femicídio antes e depois da lei
+- **Desafio:** como isolar o efeito da lei de outras mudanças simultâneas?
+- **Solução:** comparar municípios com e sem varas especializadas criadas pela lei
+
+. . .
+
+::: {.callout-note}
+Estudos empíricos encontraram redução associada à lei — mas o mecanismo exato (dissuasão? proteção direta?) ainda é debatido.
+:::
+
+---
+
+## Aplicando o desenho: comportamento judicial no STF
+
+**Pergunta:** votos de ministros do STF em matéria tributária são influenciados pelo partido do presidente que os indicou?
+
+. . .
+
+- **Variável independente:** orientação política do presidente indicante
+- **Variável dependente:** sentido do voto (pró-contribuinte ou pró-Fisco)
+- **Desafio:** controlar por tipo de tributo, composição da turma, precedentes
+
+. . .
+
+Pesquisas como essa existem e produzem achados que desafiam a imagem de neutralidade judicial.
+
+---
+
+## Limitações da pesquisa empírica no Direito
+
+::: {.incremental}
+- **Dados nem sempre disponíveis:** processos sigilosos, falta de sistematização
+- **Causalidade é difícil:** correlação não implica causa
+- **Contexto importa:** achados de um tribunal podem não se generalizar para outros
+- **Viés de seleção:** nem todos os casos chegam ao Judiciário
+- **Dados não falam sozinhos:** dependem do referencial teórico para serem interpretados
+:::
+
+---
+
+## Síntese: o que leva a uma boa pesquisa jurídica empírica
+
+```
+    Pergunta relevante e factível
+              ↓
+    Teoria causal clara
+              ↓
+    Hipótese testável
+              ↓
+    Dados adequados à pergunta
+              ↓
+    Método apropriado
+              ↓
+    Conclusões honestas sobre
+    o que foi — e o que não foi — testado
+```
+
+---
+
+## Para saber mais
+
+::: {style="font-size: 0.88em;"}
+**Textos de base desta aula:**
+
+- KELLSTEDT, P. M.; WHITTEN, G. D. *Fundamentos da Pesquisa em Ciência Política*. São Paulo: Blucher, 2015. *(Cap. 1)*
+
+- SILVA, G. P. *Desenho de Pesquisa*. Brasília: Enap, 2018.  
+  Disponível em: <https://repositorio.enap.gov.br/bitstream/1/3330/4/Livro_desenho_de_pesquisa%20%282%29.pdf>
+
+

@@ -304,7 +304,7 @@ As principais escalas são:
 
 Existem vários tipos de amostragem, cada um com vantagens e desvantagens.  
 
-## 1️⃣ Amostragem Aleatória Simples  
+## Amostragem Aleatória Simples  
 📌 Todos os indivíduos têm a mesma chance de serem escolhidos.  
 ✅ **Fácil de entender e imparcial.**  
 ❌ Pode não representar bem grupos pequenos.  

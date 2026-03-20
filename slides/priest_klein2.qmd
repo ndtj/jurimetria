@@ -1,0 +1,383 @@
+---
+title: "Seleção de dispostas para julgamento"
+subtitle: "O modelo de seleção de disputas de Priest e Klein"
+format: revealjs
+---
+
+## O problema empírico
+
+Uma pergunta importante para quem estuda decisões judiciais:
+
+Podemos compreender o funcionamento do direito observando apenas os **casos julgados pelos tribunais**?
+
+Intuitivamente, parece que sim.
+
+Mas há um problema.
+
+## A grande filtragem do sistema jurídico
+
+Entre todos os conflitos jurídicos:
+
+- muitos **nem chegam ao Judiciário**
+- muitos **terminam em acordo**
+- poucos **chegam ao julgamento**
+
+O julgamento é apenas uma pequena parte do sistema.
+
+## Uma pirâmide de disputas
+
+Podemos imaginar o sistema como uma pirâmide:
+
+Conflitos sociais  
+↓  
+Ações judiciais  
+↓  
+Casos julgados
+
+Cada etapa elimina muitos casos.
+
+## Um fato empírico importante
+
+Em muitos países:
+
+menos de **5% dos conflitos civis** chegam a julgamento.
+
+A maioria termina em:
+
+- acordo
+- desistência
+- negociação.
+
+## A pergunta central
+
+Por que alguns casos vão a julgamento enquanto outros terminam em acordo?
+
+Essa é a pergunta central do modelo desenvolvido por **Priest e Klein (1984)**.
+
+## A decisão das partes
+
+Diante de um conflito, as partes escolhem entre:
+
+- fazer um **acordo**
+- seguir para **julgamento**
+
+Essa decisão depende das **expectativas sobre o resultado**.
+
+## Expectativas sobre o resultado
+
+Antes do julgamento, ninguém sabe com certeza quem vencerá.
+
+Cada parte forma uma estimativa sobre:
+
+a probabilidade de vitória.
+
+Essa estimativa orienta suas decisões.
+
+## Como as expectativas são formadas
+
+As partes avaliam:
+
+- provas disponíveis
+- interpretação da lei
+- credibilidade de testemunhas
+- comportamento provável do juiz
+
+Com base nisso, estimam suas chances.
+
+## Um exemplo simples
+
+Imagine um processo com possível indenização de:
+
+100 mil reais.
+
+O autor acredita ter **70% de chance de vencer**.
+
+O réu acredita que o autor tem **30% de chance de vencer**.
+
+## Divergência de expectativas
+
+As partes discordam.
+
+Para o autor:
+
+o caso é forte.
+
+Para o réu:
+
+o caso é fraco.
+
+Essa divergência é fundamental.
+
+## Quando o acordo ocorre
+
+O acordo ocorre quando existe um valor aceitável para ambos.
+
+Por exemplo:
+
+- autor aceita receber **40 mil**
+- réu aceita pagar **50 mil**
+
+Existe uma zona de acordo.
+
+## Quando o acordo falha
+
+Agora imagine:
+
+- autor aceita apenas **60 mil**
+- réu aceita pagar no máximo **40 mil**
+
+Não existe valor que satisfaça ambos.
+
+O caso segue para julgamento.
+
+## A fonte da divergência
+
+Por que as expectativas diferem?
+
+Porque as partes cometem **erros de estimativa**.
+
+Esses erros são inevitáveis.
+
+## Por que ocorrem erros
+
+Erros surgem porque:
+
+- provas podem surgir durante o processo
+- testemunhas podem surpreender
+- a interpretação jurídica pode variar
+
+Assim, as estimativas nunca são perfeitas.
+
+## Representando a força do caso
+
+Priest e Klein representam a força jurídica do caso por uma variável:
+
+Y
+
+Essa variável mede **quão forte é o caso do autor**.
+
+## O padrão de decisão
+
+Existe um ponto chamado **padrão de decisão**.
+
+Se:
+
+Y for maior que esse ponto → o autor vence.
+
+Se:
+
+Y for menor → o réu vence.
+
+## O papel do juiz
+
+O juiz não precisa saber o valor exato de Y.
+
+Ele apenas decide:
+
+o caso está acima ou abaixo do padrão de decisão?
+
+## O problema da informação
+
+As partes não observam o verdadeiro valor de Y.
+
+Cada uma faz uma estimativa.
+
+Assim:
+
+- o autor estima Yp
+- o réu estima Yd
+
+## Consequência importante
+
+As estimativas podem ser diferentes.
+
+Isso significa que:
+
+as probabilidades de vitória estimadas pelas partes também podem ser diferentes.
+
+Essa diferença gera litígio.
+
+## Quando ocorre julgamento
+
+O julgamento ocorre quando a diferença entre as expectativas é grande.
+
+Se as expectativas forem semelhantes:
+
+o acordo é mais provável.
+
+## O insight central
+
+Agora surge a ideia mais importante do modelo.
+
+A divergência entre as partes depende de **quão próximo o caso está do limite da decisão jurídica**.
+
+## Casos muito claros
+
+Imagine um caso muito forte para o autor.
+
+Ambas as partes percebem isso.
+
+O réu sabe que provavelmente perderá.
+
+O acordo torna-se provável.
+
+## Casos claramente favoráveis ao réu
+
+Agora imagine um caso muito fraco.
+
+O próprio autor percebe isso.
+
+O acordo também tende a ocorrer.
+
+## O que acontece com casos claros
+
+Casos muito claros tendem a desaparecer por acordo.
+
+Eles raramente chegam ao julgamento.
+
+## Casos próximos do limite
+
+Agora imagine um caso muito incerto.
+
+Alguns elementos favorecem o autor.
+
+Outros favorecem o réu.
+
+## Incerteza maior
+
+Nesse cenário:
+
+cada parte pode acreditar que vencerá.
+
+A divergência aumenta.
+
+O julgamento torna-se mais provável.
+
+## O processo de seleção
+
+Assim surge um processo de **seleção de disputas**.
+
+Os casos julgados não são aleatórios.
+
+Eles tendem a ser os mais incertos.
+
+## A concentração de casos difíceis
+
+Os casos julgados tendem a estar próximos do limite da decisão.
+
+Ou seja:
+
+são casos difíceis.
+
+## Uma analogia com apostas
+
+Os autores usam uma analogia com apostas esportivas.
+
+Imagine um jogo entre:
+
+- um time muito forte
+- um time muito fraco.
+
+## Quando o resultado é previsível
+
+Se a aposta for apenas:
+
+quem vence?
+
+Quase ninguém aposta.
+
+O resultado é óbvio.
+
+## A linha de aposta
+
+Para gerar apostas, cria-se uma vantagem artificial.
+
+Por exemplo:
+
+o time forte precisa vencer por mais de 10 pontos.
+
+Agora o resultado é incerto.
+
+## Incerteza gera apostas
+
+Quando há incerteza:
+
+as apostas aumentam.
+
+O mesmo ocorre com disputas judiciais.
+
+## O mesmo mecanismo no direito
+
+Quando o resultado é muito previsível:
+
+as partes fazem acordo.
+
+Quando o resultado é incerto:
+
+o julgamento ocorre.
+
+## Consequência estatística
+
+Os casos julgados concentram-se próximos ao limite da decisão.
+
+Isso tem uma consequência estatística importante.
+
+## O resultado surpreendente
+
+Entre os casos julgados:
+
+as vitórias tendem a se dividir.
+
+Aproximadamente metade para cada lado.
+
+## A famosa previsão do modelo
+
+O modelo prevê que:
+
+a proporção de vitórias do autor em julgamento tende a se aproximar de **50%**.
+
+Mesmo que a realidade seja diferente.
+
+## Um exemplo numérico
+
+Imagine que apenas **30% dos conflitos realmente favoreçam o autor**.
+
+Se todos fossem julgados:
+
+o autor venceria cerca de 30%.
+
+## O efeito da seleção
+
+Mas os casos muito claros são resolvidos por acordo.
+
+Os casos julgados são os mais incertos.
+
+Entre eles, o resultado tende a se equilibrar.
+
+## O viés de seleção
+
+Assim, os casos julgados não refletem a distribuição real dos conflitos.
+
+Eles são **selecionados**.
+
+Isso cria um **viés de seleção**.
+
+## Consequência para pesquisas empíricas
+
+Se analisarmos apenas decisões judiciais:
+
+podemos chegar a conclusões equivocadas.
+
+Os dados disponíveis são apenas parte da realidade.
+
+##  Analogia
+
+Imagine o uso do VAR no futebol.
+
+A maioria dos lances é clara:
+
+- falta evidente
+- nenhum contato
+
+Esses lances não vão ao VAR.
+
