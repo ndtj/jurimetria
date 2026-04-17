@@ -1,0 +1,277 @@
+---        
+title: "Por que os 'haves' saem na frente"
+subtitle: "Marc Galanter (1974)"
+author: "José de Jesus Filho"
+format: revealjs
+---
+
+## Objetivo da aula
+
+- Reconstruir o modelo analítico de Galanter  
+- Entender a interação entre partes, advogados, regras e instituições  
+- Avaliar os limites redistributivos do direito  
+
+## Pergunta central
+
+Sob quais condições o litígio pode produzir mudança redistributiva?
+
+## Arquitetura do sistema jurídico
+
+- Regras  
+- Instituições (tribunais)  
+- Advogados  
+- Partes  
+
+👉 O resultado depende da interação entre esses elementos  
+
+## Estratégia analítica
+
+- Inverter o olhar tradicional  
+- Começar pelas partes, não pelas regras  
+
+👉 Quem usa o sistema importa  
+
+## Tipologia de partes
+
+- One-shotters (OS)  
+- Repeat players (RP)  
+
+👉 Não é dicotomia rígida, mas um continuum  
+
+## One-shotters
+
+- Litígio episódico  
+- Alto stake relativo  
+- Baixa capacidade estratégica  
+
+👉 Vulnerabilidade estrutural  
+
+## Repeat players
+
+- Litígio recorrente  
+- Baixo stake por caso  
+- Capacidade de planejamento  
+
+👉 Atuação estratégica no longo prazo  
+
+## Consequência estrutural
+
+👉 O sistema não é neutro entre OS e RP  
+
+👉 Ele amplifica vantagens pré-existentes  
+
+## Advogados e assimetria
+
+- RP têm acesso contínuo a expertise  
+- OS enfrentam custos de entrada elevados  
+
+👉 Desigualdade na mediação jurídica  
+
+## Função dos advogados
+
+- Tradução de interesses em linguagem jurídica  
+- Seleção de estratégias  
+- Produção de precedentes  
+
+👉 Advogados são operadores estratégicos  
+
+## Regras como recurso
+
+- Regras não são apenas normas  
+- São instrumentos estratégicos  
+
+👉 Podem ser usadas ou evitadas  
+
+## Instituições e capacidade
+
+- Recursos limitados  
+- Incentivo à negociação e acordo  
+
+👉 Nem todo caso vira decisão  
+
+## Interação entre elementos
+
+- Partes moldam estratégias  
+- Advogados operacionalizam  
+- Instituições filtram  
+- Regras resultam  
+
+👉 Sistema dinâmico  
+
+## Vantagem informacional
+
+- RP acumulam experiência  
+- Antecipam comportamento institucional  
+
+👉 Informação como poder  
+
+## Economias de escala
+
+- Custos marginais menores para RP  
+- Litígio como rotina organizacional  
+
+👉 Redução de custo estratégico  
+
+## Relações institucionais
+
+- Interações repetidas  
+- Construção de confiança  
+
+👉 Possível viés informal  
+
+## Reputação e credibilidade
+
+- RP têm histórico  
+- Conseguem comprometer-se estrategicamente  
+
+👉 Barganha mais eficaz  
+
+## Estratégia probabilística
+
+- RP maximizam ganhos no agregado  
+- OS minimizam perdas no caso  
+
+👉 Diferentes funções objetivo  
+
+## Produção de regras
+
+- Regras emergem do litígio  
+- Não são apenas impostas  
+
+👉 Litígio como processo de rule-making  
+
+## Seleção de casos
+
+- RP litigam casos favoráveis  
+- Evitam precedentes negativos  
+
+👉 Controle da agenda judicial  
+
+## Precedentes e viés
+
+👉 O conjunto de precedentes tende a refletir interesses dos RP  
+
+## Penetração das regras
+
+- Nem toda regra se aplica efetivamente  
+
+👉 Diferença entre norma e prática  
+
+## Penetração e recursos
+
+- Depende de:
+  - informação  
+  - capacidade organizacional  
+  - recursos financeiros  
+
+## Assimetria na execução
+
+- OS têm dificuldade de executar decisões  
+- RP garantem enforcement  
+
+👉 Vitória formal ≠ vitória real  
+
+## Matriz de litígio
+
+|                      | Réu OS                     | Réu RP                          |
+|----------------------|---------------------------|----------------------------------|
+| Autor OS             | OS vs OS                  | OS vs RP                         |
+| Autor RP             | RP vs OS                  | RP vs RP                         |
+
+## OS vs OS
+
+- Litígios episódicos  
+- Baixa produção de precedentes  
+- Forte carga emocional  
+
+👉 Baixo impacto sistêmico  
+
+## RP vs OS
+
+- Litígios em massa  
+- Rotinização  
+- Padronização decisória  
+
+👉 Núcleo do sistema  
+
+## OS vs RP
+
+- Alto potencial redistributivo  
+- Baixa frequência  
+
+👉 Barreiras estruturais  
+
+## RP vs RP
+
+- Interação repetida  
+- Tendência à cooperação  
+
+👉 Governança informal  
+
+## Insight da matriz
+
+👉 A estrutura do sistema favorece RP em quase todos os quadrantes  
+
+## Limites da mudança jurídica
+
+- Mudança normativa ≠ mudança prática  
+
+## Mecanismo central
+
+- RP adaptam comportamento  
+- Neutralizam reformas  
+
+👉 Resiliência estrutural  
+
+## Paradoxo do direito
+
+- Igualdade formal  
+- Desigualdade material  
+
+👉 Compatibilidade entre neutralidade e dominação  
+
+## Implicações teóricas
+
+- Direito como campo estratégico  
+- Não como sistema neutro  
+
+## Aplicações empíricas
+
+- Litígios bancários  
+- Execuções fiscais  
+- Demandas repetitivas  
+
+## Conexão com jurimetria
+
+- Identificação de RP  
+- Modelagem de comportamento estratégico  
+- Análise de padrões  
+
+## IA e vantagem estrutural
+
+- Automação de decisões  
+- Predição de resultados  
+- Escala  
+
+👉 Amplificação das vantagens dos RP  
+
+## Questões normativas
+
+- Como reduzir assimetrias?  
+- Intervenções institucionais funcionam?  
+
+## Perguntas para discussão
+
+- Precedentes vinculantes reduzem desigualdade?  
+- Juizados especiais alteram a estrutura?  
+- IA democratiza ou concentra poder?  
+
+## Conclusão
+
+👉 A vantagem dos “haves” é estrutural  
+
+## Mensagem final
+
+O direito pode redistribuir  
+Mas, na prática, tende a reproduzir poder  
+
