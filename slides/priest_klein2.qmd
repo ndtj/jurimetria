@@ -1,10 +1,12 @@
 ---
 title: "Seleção de dispostas para julgamento"
 subtitle: "O modelo de seleção de disputas de Priest e Klein"
-format: revealjs
+format:
+  revealjs:
+    scrollable: true
 ---
 
-## O problema empírico
+## O problema empírico {.scrollable}
 
 Uma pergunta importante para quem estuda decisões judiciais:
 
@@ -14,7 +16,7 @@ Intuitivamente, parece que sim.
 
 Mas há um problema.
 
-## A grande filtragem do sistema jurídico
+## A grande filtragem do sistema jurídico {.scrollable}
 
 Entre todos os conflitos jurídicos:
 
@@ -24,7 +26,7 @@ Entre todos os conflitos jurídicos:
 
 O julgamento é apenas uma pequena parte do sistema.
 
-## Uma pirâmide de disputas
+## Uma pirâmide de disputas {.scrollable}
 
 Podemos imaginar o sistema como uma pirâmide:
 
@@ -36,7 +38,7 @@ Casos julgados
 
 Cada etapa elimina muitos casos.
 
-## Um fato empírico importante
+## Um fato empírico importante {.scrollable}
 
 Em muitos países:
 
@@ -48,13 +50,13 @@ A maioria termina em:
 - desistência
 - negociação.
 
-## A pergunta central
+## A pergunta central {.scrollable}
 
 Por que alguns casos vão a julgamento enquanto outros terminam em acordo?
 
 Essa é a pergunta central do modelo desenvolvido por **Priest e Klein (1984)**.
 
-## A decisão das partes
+## A decisão das partes {.scrollable}
 
 Diante de um conflito, as partes escolhem entre:
 
@@ -63,7 +65,7 @@ Diante de um conflito, as partes escolhem entre:
 
 Essa decisão depende das **expectativas sobre o resultado**.
 
-## Expectativas sobre o resultado
+## Expectativas sobre o resultado {.scrollable}
 
 Antes do julgamento, ninguém sabe com certeza quem vencerá.
 
@@ -73,7 +75,7 @@ a probabilidade de vitória.
 
 Essa estimativa orienta suas decisões.
 
-## Como as expectativas são formadas
+## Como as expectativas são formadas {.scrollable}
 
 As partes avaliam:
 
@@ -84,7 +86,7 @@ As partes avaliam:
 
 Com base nisso, estimam suas chances.
 
-## Um exemplo simples
+## Um exemplo simples {.scrollable}
 
 Imagine um processo com possível indenização de:
 
@@ -94,7 +96,7 @@ O autor acredita ter **70% de chance de vencer**.
 
 O réu acredita que o autor tem **30% de chance de vencer**.
 
-## Divergência de expectativas
+## Divergência de expectativas {.scrollable}
 
 As partes discordam.
 
@@ -108,7 +110,7 @@ o caso é fraco.
 
 Essa divergência é fundamental.
 
-## Quando o acordo ocorre
+## Quando o acordo ocorre {.scrollable}
 
 O acordo ocorre quando existe um valor aceitável para ambos.
 
@@ -119,7 +121,7 @@ Por exemplo:
 
 Existe uma zona de acordo.
 
-## Quando o acordo falha
+## Quando o acordo falha {.scrollable}
 
 Agora imagine:
 
@@ -130,7 +132,7 @@ Não existe valor que satisfaça ambos.
 
 O caso segue para julgamento.
 
-## A fonte da divergência
+## A fonte da divergência {.scrollable}
 
 Por que as expectativas diferem?
 
@@ -138,7 +140,7 @@ Porque as partes cometem **erros de estimativa**.
 
 Esses erros são inevitáveis.
 
-## Por que ocorrem erros
+## Por que ocorrem erros {.scrollable}
 
 Erros surgem porque:
 
@@ -148,7 +150,7 @@ Erros surgem porque:
 
 Assim, as estimativas nunca são perfeitas.
 
-## Representando a força do caso
+## Representando a força do caso {.scrollable}
 
 Priest e Klein representam a força jurídica do caso por uma variável:
 
@@ -156,7 +158,7 @@ Y
 
 Essa variável mede **quão forte é o caso do autor**.
 
-## O padrão de decisão
+## O padrão de decisão {.scrollable}
 
 Existe um ponto chamado **padrão de decisão**.
 
@@ -168,7 +170,7 @@ Se:
 
 Y for menor → o réu vence.
 
-## O papel do juiz
+## O papel do juiz {.scrollable}
 
 O juiz não precisa saber o valor exato de Y.
 
@@ -176,7 +178,7 @@ Ele apenas decide:
 
 o caso está acima ou abaixo do padrão de decisão?
 
-## O problema da informação
+## O problema da informação {.scrollable}
 
 As partes não observam o verdadeiro valor de Y.
 
@@ -187,7 +189,7 @@ Assim:
 - o autor estima Yp
 - o réu estima Yd
 
-## Consequência importante
+## Consequência importante {.scrollable}
 
 As estimativas podem ser diferentes.
 
@@ -197,7 +199,7 @@ as probabilidades de vitória estimadas pelas partes também podem ser diferente
 
 Essa diferença gera litígio.
 
-## Quando ocorre julgamento
+## Quando ocorre julgamento {.scrollable}
 
 O julgamento ocorre quando a diferença entre as expectativas é grande.
 
@@ -205,13 +207,13 @@ Se as expectativas forem semelhantes:
 
 o acordo é mais provável.
 
-## O insight central
+## O insight central {.scrollable}
 
 Agora surge a ideia mais importante do modelo.
 
 A divergência entre as partes depende de **quão próximo o caso está do limite da decisão jurídica**.
 
-## Casos muito claros
+## Casos muito claros {.scrollable}
 
 Imagine um caso muito forte para o autor.
 
@@ -221,7 +223,7 @@ O réu sabe que provavelmente perderá.
 
 O acordo torna-se provável.
 
-## Casos claramente favoráveis ao réu
+## Casos claramente favoráveis ao réu {.scrollable}
 
 Agora imagine um caso muito fraco.
 
@@ -229,13 +231,13 @@ O próprio autor percebe isso.
 
 O acordo também tende a ocorrer.
 
-## O que acontece com casos claros
+## O que acontece com casos claros {.scrollable}
 
 Casos muito claros tendem a desaparecer por acordo.
 
 Eles raramente chegam ao julgamento.
 
-## Casos próximos do limite
+## Casos próximos do limite {.scrollable}
 
 Agora imagine um caso muito incerto.
 
@@ -243,7 +245,7 @@ Alguns elementos favorecem o autor.
 
 Outros favorecem o réu.
 
-## Incerteza maior
+## Incerteza maior {.scrollable}
 
 Nesse cenário:
 
@@ -253,7 +255,7 @@ A divergência aumenta.
 
 O julgamento torna-se mais provável.
 
-## O processo de seleção
+## O processo de seleção {.scrollable}
 
 Assim surge um processo de **seleção de disputas**.
 
@@ -261,7 +263,7 @@ Os casos julgados não são aleatórios.
 
 Eles tendem a ser os mais incertos.
 
-## A concentração de casos difíceis
+## A concentração de casos difíceis {.scrollable}
 
 Os casos julgados tendem a estar próximos do limite da decisão.
 
@@ -269,7 +271,7 @@ Ou seja:
 
 são casos difíceis.
 
-## Uma analogia com apostas
+## Uma analogia com apostas {.scrollable}
 
 Os autores usam uma analogia com apostas esportivas.
 
@@ -278,7 +280,7 @@ Imagine um jogo entre:
 - um time muito forte
 - um time muito fraco.
 
-## Quando o resultado é previsível
+## Quando o resultado é previsível {.scrollable}
 
 Se a aposta for apenas:
 
@@ -288,7 +290,7 @@ Quase ninguém aposta.
 
 O resultado é óbvio.
 
-## A linha de aposta
+## A linha de aposta {.scrollable}
 
 Para gerar apostas, cria-se uma vantagem artificial.
 
@@ -298,7 +300,7 @@ o time forte precisa vencer por mais de 10 pontos.
 
 Agora o resultado é incerto.
 
-## Incerteza gera apostas
+## Incerteza gera apostas {.scrollable}
 
 Quando há incerteza:
 
@@ -306,7 +308,7 @@ as apostas aumentam.
 
 O mesmo ocorre com disputas judiciais.
 
-## O mesmo mecanismo no direito
+## O mesmo mecanismo no direito {.scrollable}
 
 Quando o resultado é muito previsível:
 
@@ -316,13 +318,13 @@ Quando o resultado é incerto:
 
 o julgamento ocorre.
 
-## Consequência estatística
+## Consequência estatística {.scrollable}
 
 Os casos julgados concentram-se próximos ao limite da decisão.
 
 Isso tem uma consequência estatística importante.
 
-## O resultado surpreendente
+## O resultado surpreendente {.scrollable}
 
 Entre os casos julgados:
 
@@ -330,7 +332,7 @@ as vitórias tendem a se dividir.
 
 Aproximadamente metade para cada lado.
 
-## A famosa previsão do modelo
+## A famosa previsão do modelo {.scrollable}
 
 O modelo prevê que:
 
@@ -338,7 +340,7 @@ a proporção de vitórias do autor em julgamento tende a se aproximar de **50%*
 
 Mesmo que a realidade seja diferente.
 
-## Um exemplo numérico
+## Um exemplo numérico {.scrollable}
 
 Imagine que apenas **30% dos conflitos realmente favoreçam o autor**.
 
@@ -346,7 +348,7 @@ Se todos fossem julgados:
 
 o autor venceria cerca de 30%.
 
-## O efeito da seleção
+## O efeito da seleção {.scrollable}
 
 Mas os casos muito claros são resolvidos por acordo.
 
@@ -354,7 +356,7 @@ Os casos julgados são os mais incertos.
 
 Entre eles, o resultado tende a se equilibrar.
 
-## O viés de seleção
+## O viés de seleção {.scrollable}
 
 Assim, os casos julgados não refletem a distribuição real dos conflitos.
 
@@ -362,7 +364,7 @@ Eles são **selecionados**.
 
 Isso cria um **viés de seleção**.
 
-## Consequência para pesquisas empíricas
+## Consequência para pesquisas empíricas {.scrollable}
 
 Se analisarmos apenas decisões judiciais:
 
@@ -370,7 +372,7 @@ podemos chegar a conclusões equivocadas.
 
 Os dados disponíveis são apenas parte da realidade.
 
-##  Analogia
+##  Analogia {.scrollable}
 
 Imagine o uso do VAR no futebol.
 

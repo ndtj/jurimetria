@@ -2,20 +2,22 @@
 title: "Por que os 'haves' saem na frente"
 subtitle: "Marc Galanter (1974)"
 author: "José de Jesus Filho"
-format: revealjs
+format:
+  revealjs:
+    scrollable: true
 ---
 
-## Objetivo da aula
+## Objetivo da aula {.scrollable}
 
 - Reconstruir o modelo analítico de Galanter  
 - Entender a interação entre partes, advogados, regras e instituições  
 - Avaliar os limites redistributivos do direito  
 
-## Pergunta central
+## Pergunta central {.scrollable}
 
 Sob quais condições o litígio pode produzir mudança redistributiva?
 
-## Arquitetura do sistema jurídico
+## Arquitetura do sistema jurídico {.scrollable}
 
 - Regras  
 - Instituições (tribunais)  
@@ -24,21 +26,21 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 O resultado depende da interação entre esses elementos  
 
-## Estratégia analítica
+## Estratégia analítica {.scrollable}
 
 - Inverter o olhar tradicional  
 - Começar pelas partes, não pelas regras  
 
 👉 Quem usa o sistema importa  
 
-## Tipologia de partes
+## Tipologia de partes {.scrollable}
 
 - One-shotters (OS)  
 - Repeat players (RP)  
 
 👉 Não é dicotomia rígida, mas um continuum  
 
-## One-shotters
+## One-shotters {.scrollable}
 
 - Litígio episódico  
 - Alto stake relativo  
@@ -46,7 +48,7 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Vulnerabilidade estrutural  
 
-## Repeat players
+## Repeat players {.scrollable}
 
 - Litígio recorrente  
 - Baixo stake por caso  
@@ -54,20 +56,20 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Atuação estratégica no longo prazo  
 
-## Consequência estrutural
+## Consequência estrutural {.scrollable}
 
 👉 O sistema não é neutro entre OS e RP  
 
 👉 Ele amplifica vantagens pré-existentes  
 
-## Advogados e assimetria
+## Advogados e assimetria {.scrollable}
 
 - RP têm acesso contínuo a expertise  
 - OS enfrentam custos de entrada elevados  
 
 👉 Desigualdade na mediação jurídica  
 
-## Função dos advogados
+## Função dos advogados {.scrollable}
 
 - Tradução de interesses em linguagem jurídica  
 - Seleção de estratégias  
@@ -75,21 +77,21 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Advogados são operadores estratégicos  
 
-## Regras como recurso
+## Regras como recurso {.scrollable}
 
 - Regras não são apenas normas  
 - São instrumentos estratégicos  
 
 👉 Podem ser usadas ou evitadas  
 
-## Instituições e capacidade
+## Instituições e capacidade {.scrollable}
 
 - Recursos limitados  
 - Incentivo à negociação e acordo  
 
 👉 Nem todo caso vira decisão  
 
-## Interação entre elementos
+## Interação entre elementos {.scrollable}
 
 - Partes moldam estratégias  
 - Advogados operacionalizam  
@@ -98,87 +100,87 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Sistema dinâmico  
 
-## Vantagem informacional
+## Vantagem informacional {.scrollable}
 
 - RP acumulam experiência  
 - Antecipam comportamento institucional  
 
 👉 Informação como poder  
 
-## Economias de escala
+## Economias de escala {.scrollable}
 
 - Custos marginais menores para RP  
 - Litígio como rotina organizacional  
 
 👉 Redução de custo estratégico  
 
-## Relações institucionais
+## Relações institucionais {.scrollable}
 
 - Interações repetidas  
 - Construção de confiança  
 
 👉 Possível viés informal  
 
-## Reputação e credibilidade
+## Reputação e credibilidade {.scrollable}
 
 - RP têm histórico  
 - Conseguem comprometer-se estrategicamente  
 
 👉 Barganha mais eficaz  
 
-## Estratégia probabilística
+## Estratégia probabilística {.scrollable}
 
 - RP maximizam ganhos no agregado  
 - OS minimizam perdas no caso  
 
 👉 Diferentes funções objetivo  
 
-## Produção de regras
+## Produção de regras {.scrollable}
 
 - Regras emergem do litígio  
 - Não são apenas impostas  
 
 👉 Litígio como processo de rule-making  
 
-## Seleção de casos
+## Seleção de casos {.scrollable}
 
 - RP litigam casos favoráveis  
 - Evitam precedentes negativos  
 
 👉 Controle da agenda judicial  
 
-## Precedentes e viés
+## Precedentes e viés {.scrollable}
 
 👉 O conjunto de precedentes tende a refletir interesses dos RP  
 
-## Penetração das regras
+## Penetração das regras {.scrollable}
 
 - Nem toda regra se aplica efetivamente  
 
 👉 Diferença entre norma e prática  
 
-## Penetração e recursos
+## Penetração e recursos {.scrollable}
 
 - Depende de:
   - informação  
   - capacidade organizacional  
   - recursos financeiros  
 
-## Assimetria na execução
+## Assimetria na execução {.scrollable}
 
 - OS têm dificuldade de executar decisões  
 - RP garantem enforcement  
 
 👉 Vitória formal ≠ vitória real  
 
-## Matriz de litígio
+## Matriz de litígio {.scrollable}
 
 |                      | Réu OS                     | Réu RP                          |
 |----------------------|---------------------------|----------------------------------|
 | Autor OS             | OS vs OS                  | OS vs RP                         |
 | Autor RP             | RP vs OS                  | RP vs RP                         |
 
-## OS vs OS
+## OS vs OS {.scrollable}
 
 - Litígios episódicos  
 - Baixa produção de precedentes  
@@ -186,7 +188,7 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Baixo impacto sistêmico  
 
-## RP vs OS
+## RP vs OS {.scrollable}
 
 - Litígios em massa  
 - Rotinização  
@@ -194,60 +196,60 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Núcleo do sistema  
 
-## OS vs RP
+## OS vs RP {.scrollable}
 
 - Alto potencial redistributivo  
 - Baixa frequência  
 
 👉 Barreiras estruturais  
 
-## RP vs RP
+## RP vs RP {.scrollable}
 
 - Interação repetida  
 - Tendência à cooperação  
 
 👉 Governança informal  
 
-## Insight da matriz
+## Insight da matriz {.scrollable}
 
 👉 A estrutura do sistema favorece RP em quase todos os quadrantes  
 
-## Limites da mudança jurídica
+## Limites da mudança jurídica {.scrollable}
 
 - Mudança normativa ≠ mudança prática  
 
-## Mecanismo central
+## Mecanismo central {.scrollable}
 
 - RP adaptam comportamento  
 - Neutralizam reformas  
 
 👉 Resiliência estrutural  
 
-## Paradoxo do direito
+## Paradoxo do direito {.scrollable}
 
 - Igualdade formal  
 - Desigualdade material  
 
 👉 Compatibilidade entre neutralidade e dominação  
 
-## Implicações teóricas
+## Implicações teóricas {.scrollable}
 
 - Direito como campo estratégico  
 - Não como sistema neutro  
 
-## Aplicações empíricas
+## Aplicações empíricas {.scrollable}
 
 - Litígios bancários  
 - Execuções fiscais  
 - Demandas repetitivas  
 
-## Conexão com jurimetria
+## Conexão com jurimetria {.scrollable}
 
 - Identificação de RP  
 - Modelagem de comportamento estratégico  
 - Análise de padrões  
 
-## IA e vantagem estrutural
+## IA e vantagem estrutural {.scrollable}
 
 - Automação de decisões  
 - Predição de resultados  
@@ -255,22 +257,22 @@ Sob quais condições o litígio pode produzir mudança redistributiva?
 
 👉 Amplificação das vantagens dos RP  
 
-## Questões normativas
+## Questões normativas {.scrollable}
 
 - Como reduzir assimetrias?  
 - Intervenções institucionais funcionam?  
 
-## Perguntas para discussão
+## Perguntas para discussão {.scrollable}
 
 - Precedentes vinculantes reduzem desigualdade?  
 - Juizados especiais alteram a estrutura?  
 - IA democratiza ou concentra poder?  
 
-## Conclusão
+## Conclusão {.scrollable}
 
 👉 A vantagem dos “haves” é estrutural  
 
-## Mensagem final
+## Mensagem final {.scrollable}
 
 O direito pode redistribuir  
 Mas, na prática, tende a reproduzir poder  

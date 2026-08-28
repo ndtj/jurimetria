@@ -12,15 +12,16 @@ format:
     transition: slide
     incremental: false
     fig-align: center
+    scrollable: true
 ---
 
-# Parte 1 {background-color="#1a1a2e"}
+# Parte 1 {background-color="#1a1a2e" .scrollable}
 
-## O que é um desenho de pesquisa?
+## O que é um desenho de pesquisa? {.scrollable}
 
 ---
 
-## Pesquisa jurídica: o que fazemos de fato?
+## Pesquisa jurídica: o que fazemos de fato? {.scrollable}
 
 Quando pesquisamos no Direito, costumamos:
 
@@ -36,7 +37,7 @@ Mas o campo jurídico também pode — e deve — responder perguntas como:
 
 ---
 
-## Definindo desenho de pesquisa
+## Definindo desenho de pesquisa {.scrollable}
 
 > *"Um desenho de pesquisa é um plano que mostra, por meio de uma discussão do nosso modelo e dos nossos dados, como nós pretendemos usar nossa evidência para fazer inferências."*
 >
@@ -48,7 +49,7 @@ Em outras palavras: **como minha evidência sustenta minhas conclusões?**
 
 ---
 
-## Por que isso importa para graduandos de Direito?
+## Por que isso importa para graduandos de Direito? {.scrollable}
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -71,7 +72,7 @@ Em outras palavras: **como minha evidência sustenta minhas conclusões?**
 
 ---
 
-## Duas dimensões do desenho
+## Duas dimensões do desenho {.scrollable}
 
 ```
 ┌──────────────────────────────────────────────────────┐
@@ -94,7 +95,7 @@ Em outras palavras: **como minha evidência sustenta minhas conclusões?**
 
 ---
 
-## Do problema à conclusão
+## Do problema à conclusão {.scrollable}
 
 ::: {style="font-size: 0.9em;"}
 | Etapa | O que envolve |
@@ -110,7 +111,7 @@ Em outras palavras: **como minha evidência sustenta minhas conclusões?**
 
 ---
 
-## Uma boa pergunta de pesquisa
+## Uma boa pergunta de pesquisa {.scrollable}
 
 Uma boa pergunta deve ser:
 
@@ -127,7 +128,7 @@ Uma boa pergunta deve ser:
 
 ---
 
-## Afirmações empíricas vs. normativas
+## Afirmações empíricas vs. normativas {.scrollable}
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -154,13 +155,13 @@ A pesquisa científica opera no plano **empírico** — sem abandonar as implica
 
 ---
 
-# Parte 2 {background-color="#1a1a2e"}
+# Parte 2 {background-color="#1a1a2e" .scrollable}
 
-## Teoria, hipótese e teste empírico
+## Teoria, hipótese e teste empírico {.scrollable}
 
 ---
 
-## O que é uma teoria?
+## O que é uma teoria? {.scrollable}
 
 > Uma **teoria** é uma tentativa de conjeturar sobre as *causas* de um fenômeno de interesse.
 >
@@ -184,7 +185,7 @@ Uma teoria **é**:
 
 ---
 
-## Do fenômeno à teoria causal
+## Do fenômeno à teoria causal {.scrollable}
 
 **Você observa:** decisões sobre prisão preventiva variam muito entre juízes para casos semelhantes.
 
@@ -198,7 +199,7 @@ Uma teoria **é**:
 
 ---
 
-## Da teoria à hipótese
+## Da teoria à hipótese {.scrollable}
 
 > Uma **hipótese** é uma afirmação *testável* derivada da teoria, sobre a relação esperada entre variáveis.
 
@@ -212,7 +213,7 @@ Uma teoria **é**:
 
 ---
 
-## O papel da hipótese nula
+## O papel da hipótese nula {.scrollable}
 
 Cientistas são rigorosos consigo mesmos:
 
@@ -230,7 +231,7 @@ Um(a) **cientista** busca *testar* sua hipótese — inclusive tentando refutá-
 
 ---
 
-## O caminho completo
+## O caminho completo {.scrollable}
 
 ```
         Teoria causal
@@ -250,7 +251,7 @@ Um(a) **cientista** busca *testar* sua hipótese — inclusive tentando refutá-
 
 ---
 
-## Pensando com variáveis
+## Pensando com variáveis {.scrollable}
 
 Toda hipótese envolve pelo menos duas variáveis:
 
@@ -277,7 +278,7 @@ O *efeito* — o fenômeno que queremos explicar.
 
 ---
 
-## Cuidado: correlação ≠ causalidade
+## Cuidado: correlação ≠ causalidade {.scrollable}
 
 ::: {.callout-warning}
 **Exemplo clássico:** venda de sorvetes e homicídios aumentam juntos no verão.  
@@ -294,7 +295,7 @@ Podem existir outras explicações: mudança econômica, outras políticas simul
 
 ---
 
-## Regras do caminho científico
+## Regras do caminho científico {.scrollable}
 
 Kellstedt & Whitten (2015) propõem cinco regras:
 
@@ -306,13 +307,13 @@ Kellstedt & Whitten (2015) propõem cinco regras:
 
 ---
 
-# Parte 3 {background-color="#1a1a2e"}
+# Parte 3 {background-color="#1a1a2e" .scrollable}
 
-## Aplicações no Direito: pesquisa jurídica empírica
+## Aplicações no Direito: pesquisa jurídica empírica {.scrollable}
 
 ---
 
-## O que é pesquisa jurídica empírica?
+## O que é pesquisa jurídica empírica? {.scrollable}
 
 É a pesquisa que usa **dados do mundo real** para responder perguntas sobre o **direito em ação** — não apenas o direito nos livros.
 
@@ -326,7 +327,7 @@ Kellstedt & Whitten (2015) propõem cinco regras:
 
 ---
 
-## Exemplos de perguntas empíricas no Direito
+## Exemplos de perguntas empíricas no Direito {.scrollable}
 
 - Quais fatores influenciam a concessão de habeas corpus no STJ?
 - A reforma trabalhista de 2017 reduziu o número de ações na Justiça do Trabalho?
@@ -339,7 +340,7 @@ Todas essas perguntas exigem **dados** — não apenas argumentação jurídica.
 
 ---
 
-## Jurimetria: estatística aplicada ao Direito
+## Jurimetria: estatística aplicada ao Direito {.scrollable}
 
 > **Jurimetria** é a aplicação de métodos quantitativos e estatísticos ao estudo do fenômeno jurídico.
 
@@ -354,7 +355,7 @@ Todas essas perguntas exigem **dados** — não apenas argumentação jurídica.
 
 ---
 
-## Aplicando o desenho: estudo sobre prisão preventiva
+## Aplicando o desenho: estudo sobre prisão preventiva {.scrollable}
 
 **Pergunta:** a raça do acusado influencia a decretação de prisão preventiva?
 
@@ -373,7 +374,7 @@ Todas essas perguntas exigem **dados** — não apenas argumentação jurídica.
 
 ---
 
-## Aplicando o desenho: impacto da Lei Maria da Penha
+## Aplicando o desenho: impacto da Lei Maria da Penha {.scrollable}
 
 **Pergunta:** a Lei Maria da Penha (2006) reduziu os homicídios de mulheres?
 
@@ -391,7 +392,7 @@ Estudos empíricos encontraram redução associada à lei — mas o mecanismo ex
 
 ---
 
-## Aplicando o desenho: comportamento judicial no STF
+## Aplicando o desenho: comportamento judicial no STF {.scrollable}
 
 **Pergunta:** votos de ministros do STF em matéria tributária são influenciados pelo partido do presidente que os indicou?
 
@@ -407,7 +408,7 @@ Pesquisas como essa existem e produzem achados que desafiam a imagem de neutrali
 
 ---
 
-## Limitações da pesquisa empírica no Direito
+## Limitações da pesquisa empírica no Direito {.scrollable}
 
 ::: {.incremental}
 - **Dados nem sempre disponíveis:** processos sigilosos, falta de sistematização
@@ -419,7 +420,7 @@ Pesquisas como essa existem e produzem achados que desafiam a imagem de neutrali
 
 ---
 
-## Síntese: o que leva a uma boa pesquisa jurídica empírica
+## Síntese: o que leva a uma boa pesquisa jurídica empírica {.scrollable}
 
 ```
     Pergunta relevante e factível
@@ -438,7 +439,7 @@ Pesquisas como essa existem e produzem achados que desafiam a imagem de neutrali
 
 ---
 
-## Para saber mais
+## Para saber mais {.scrollable}
 
 ::: {style="font-size: 0.88em;"}
 **Textos de base desta aula:**

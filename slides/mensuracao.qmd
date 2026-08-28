@@ -1,11 +1,13 @@
 ---
 title: "Amostragem e mensuração"
 author: "José de Jesus Filho"
-format: revealjs
+format:
+  revealjs:
+    scrollable: true
 editor: visual
 ---
 
-## O problema da mensuração
+## O problema da mensuração {.scrollable}
 
 - "Eu conheço quando vejo" - Potter Stewart - Juiz associado da Suprema Corte dos EUA
   ao falar de obscenidade.
@@ -15,40 +17,40 @@ editor: visual
 
 Tanto quanto possível, devemos estar confiantes de que nossos conceitos teóricos sejam próximos de nossas observações empíricas.
 
-## A Importância da Medição em Ciências Sociais
+## A Importância da Medição em Ciências Sociais {.scrollable}
 
 Por vezes, o relacionamento que mais nos interessa é aquele que não podemos observar diretamente. Portanto, precisamos confiar em medidas potencialmente imperfeitas dos conceitos que valorizamos.
 
 Isso significa que medir nossos conceitos com cuidado é uma das partes mais importantes (e negligenciadas) das ciências sociais.
 
 
-## O problema da operacionalização
+## O problema da operacionalização {.scrollable}
 
 - Muitos conceitos em ciências sociais e especialmente no direito são elusivos
  e difíceis de serem observados empiricamente.
  
 - Para cada conceito teórico existem múltiplas estratégias de operacionalização.
 
-## Exemplos:
+## Exemplos: {.scrollable}
 
 - O que incluir na medição da pobreza
 - Como medir a inflação?
 - Como sei que uma pessoa é depressiva ou não e qual o seu grau?
 
-## Exemplos
+## Exemplos {.scrollable}
 
 - Ativismo judicial
 - Voto motivamos por ideologia
 - Legitimidade política do governo
 - juiz conservador x juiz liberal
 
-# Três Aspectos Essenciais da Medição
+# Três Aspectos Essenciais da Medição {.scrollable}
 
 1. **Clareza Conceitual**: O que exatamente queremos medir?  
 2. **Confiabilidade**: A medida é consistente e replicável?  
 3. **Validade**: A medida reflete de fato o conceito que queremos medir? 
 
-## Clareza Conceitual
+## Clareza Conceitual {.scrollable}
 
 Exemplo: Como medir "renda" em uma pesquisa?  
 
@@ -57,20 +59,20 @@ Exemplo: Como medir "renda" em uma pesquisa?
 
 Uma pergunta mal formulada pode levar a respostas imprecisas.  
 
-## Confiabilidade
+## Confiabilidade {.scrollable}
 
 Uma medida é confiável se produz resultados consistentes ao longo do tempo e entre diferentes avaliadores.  
 
 Exemplo:  
 - Uma balança confiável sempre mostra o mesmo peso para um mesmo objeto.  
 
-## Tipos de confiabilidade:  
+## Tipos de confiabilidade: {.scrollable}  
 1. **Teste-reteste**: O mesmo teste aplicado duas vezes gera resultados similares?  
 2. **Consistência interna**: Os itens da medida estão correlacionados?  
 3. **Confiabilidade entre avaliadores**: Diferentes pesquisadores chegam à mesma conclusão?  
 
 
-## Validade
+## Validade {.scrollable}
 
 Uma medida válida representa corretamente o conceito que pretende medir.  
 
@@ -83,12 +85,12 @@ Tipos de validade:
 2. **Conteúdo**: Captura todos os aspectos do conceito?  
 3. **Construto**: Reflete a teoria subjacente?  
 
-## Variáveis
+## Variáveis {.scrollable}
 
 Variável é uma característica que pode variar no seu valor entre sujeitos em 
 uma amostra o população. Seus valores formam um escala de mensuração.
 
-## 1. Variáveis Categóricas  
+## 1. Variáveis Categóricas {.scrollable}  
 
 📌 **Representam grupos ou categorias, sem valores numéricos significativos.**  
 
@@ -99,7 +101,7 @@ uma amostra o população. Seus valores formam um escala de mensuração.
 
 📊 **Métricas adequadas**: Moda, proporções, tabelas de frequência.  
 
-##  Variáveis Quantitativas  
+##  Variáveis Quantitativas {.scrollable}  
 
 📌 **Representam quantidades numéricas e permitem operações matemáticas significativas.**  
 
@@ -110,7 +112,7 @@ uma amostra o população. Seus valores formam um escala de mensuração.
 
 📊 **Métricas adequadas**: Média, mediana, desvio-padrão, histogramas.  
 
-## Diferença Entre os Tipos  
+## Diferença Entre os Tipos {.scrollable}  
 
 | Característica        | Categórica            | Quantitativa |
 |----------------------|---------------------|--------------|
@@ -119,7 +121,7 @@ uma amostra o população. Seus valores formam um escala de mensuração.
 | Exemplos            | Gênero, Religião, Cor | Idade, Renda, Altura |
 
 
-## Subtipos de Variáveis Quantitativas  
+## Subtipos de Variáveis Quantitativas {.scrollable}  
 
 1️⃣ **Discretas**: Valores contáveis e inteiros.  
    - Exemplo: Número de filhos (0, 1, 2, 3...).  
@@ -128,7 +130,7 @@ uma amostra o população. Seus valores formam um escala de mensuração.
    - Exemplo: Altura (1,75m, 1,82m, etc.).  
 
 
-## Escalas de Mensuração  
+## Escalas de Mensuração {.scrollable}  
 
 A **mensuração** em ciências sociais classifica variáveis em diferentes escalas, dependendo das propriedades matemáticas que possuem.  
 
@@ -139,7 +141,7 @@ As principais escalas são:
 
 
 
-## 1️⃣ Escala Nominal  
+## 1️⃣ Escala Nominal {.scrollable}  
 
 📌 **Apenas classifica categorias sem ordem ou hierarquia.**  
 
@@ -160,7 +162,7 @@ As principais escalas são:
 🚫 **Não permite cálculos de média ou ordem numérica.**  
 
 
-## Escala Ordinal  
+## Escala Ordinal {.scrollable}  
 
 📌 **Classifica categorias com uma ordem lógica, mas sem intervalos fixos.**  
 
@@ -183,7 +185,7 @@ As principais escalas são:
 
 ---
 
-## Escala Intervalar  
+## Escala Intervalar {.scrollable}  
 
 📌 **Permite medir diferenças numéricas exatas, mas sem um zero absoluto.**  
 
@@ -205,7 +207,7 @@ As principais escalas são:
 
 ---
 
-## Comparação das Escalas  
+## Comparação das Escalas {.scrollable}  
 
 | Escala       | Ordem? | Diferença Igual? | Zero Significativo? | Exemplo |
 |-------------|-------|-----------------|--------------------|---------|
@@ -215,7 +217,7 @@ As principais escalas são:
 
 ---
 
-## Amostragm e aleatorização :  
+## Amostragm e aleatorização : {.scrollable}  
 1️⃣ Amostragem  
 2️⃣ Aleatorização  
 3️⃣ Experimentos vs. Observação  
@@ -226,7 +228,7 @@ As principais escalas são:
 
 ---
 
-## Amostragem  
+## Amostragem {.scrollable}  
 
 📌 **Amostragem** é o processo de selecionar um subconjunto de uma população para análise.  
 
@@ -237,7 +239,7 @@ As principais escalas são:
 
 ---
 
-## Aleatorização  
+## Aleatorização {.scrollable}  
 
 📌 **Aleatorização** significa que cada indivíduo da população tem **igual chance** de ser escolhido na amostra.  
 
@@ -248,12 +250,12 @@ As principais escalas são:
 
 🚨 **Sem aleatorização, os resultados podem ser enviesados!**  
 
-## 🔬 **Experimento**  
+## 🔬 **Experimento** {.scrollable}  
 - O pesquisador **manipula** variáveis e controla o ambiente.  
 - **Causa e efeito** pode ser analisado.  
 - Exemplo: Testar um novo medicamento em dois grupos (placebo x tratamento).  
 
-## 👀 **Observação**  
+## 👀 **Observação** {.scrollable}  
 - O pesquisador **não interfere** nas variáveis.  
 - Apenas **coleta e analisa dados** existentes.  
 - Exemplo: Analisar a relação entre exercício físico e saúde com base em pesquisas.  
@@ -261,7 +263,7 @@ As principais escalas são:
 🚨 **Cuidado! Estudos observacionais não provam causalidade.**  
 
 
-## Variabilidade Amostral  
+## Variabilidade Amostral {.scrollable}  
 
 📌 **Duas amostras da mesma população podem produzir resultados diferentes.**  
 
@@ -274,7 +276,7 @@ As principais escalas são:
 
 
 
-## Tendenciosidade Potencial  
+## Tendenciosidade Potencial {.scrollable}  
 
 📌 **Viés ocorre quando os dados não representam a população corretamente.**  
 
@@ -287,7 +289,7 @@ As principais escalas são:
 
 ---
 
-##  Erro Amostral  
+##  Erro Amostral {.scrollable}  
 
 📌 **Erro amostral ocorre porque a amostra nunca é idêntica à população.**  
 
@@ -300,17 +302,17 @@ As principais escalas são:
 
 ---
 
-##  Métodos de Amostragem  
+##  Métodos de Amostragem {.scrollable}  
 
 Existem vários tipos de amostragem, cada um com vantagens e desvantagens.  
 
-## Amostragem Aleatória Simples  
+## Amostragem Aleatória Simples {.scrollable}  
 📌 Todos os indivíduos têm a mesma chance de serem escolhidos.  
 ✅ **Fácil de entender e imparcial.**  
 ❌ Pode não representar bem grupos pequenos.  
 
 
-##  Amostragem Estratificada  
+##  Amostragem Estratificada {.scrollable}  
 📌 Divide a população em **grupos homogêneos (estratos)** e escolhe amostras de cada um.  
 ✅ **Garante representatividade de subgrupos.**  
 ❌ Exige informações prévias sobre a população.  
@@ -319,7 +321,7 @@ Existem vários tipos de amostragem, cada um com vantagens e desvantagens.
 
 ---
 
-##  Amostragem Sistemática  
+##  Amostragem Sistemática {.scrollable}  
 📌 Escolhe indivíduos a partir de um **intervalo fixo** (ex.: cada 10º nome em uma lista).  
 ✅ **Simples de aplicar e eficiente.**  
 ❌ Pode ser tendenciosa se houver padrões ocultos nos dados.  
@@ -328,7 +330,7 @@ Existem vários tipos de amostragem, cada um com vantagens e desvantagens.
 
 ---
 
-## Amostragem por Conglomerados  
+## Amostragem por Conglomerados {.scrollable}  
 📌 Divide a população em **grupos naturais (conglomerados)** e seleciona alguns grupos inteiros.  
 ✅ **Útil para populações grandes e dispersas.**  
 ❌ Pode aumentar erro amostral se os grupos forem muito diferentes.  
@@ -337,7 +339,7 @@ Existem vários tipos de amostragem, cada um com vantagens e desvantagens.
 
 ---
 
-## Comparação dos Métodos  
+## Comparação dos Métodos {.scrollable}  
 
 | Método | Como Funciona? | Vantagens | Desvantagens |
 |--------|--------------|-----------|--------------|

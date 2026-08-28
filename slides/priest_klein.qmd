@@ -2,10 +2,12 @@
 title: "The selection of disputes for litigation"
 subtitle: "Priest & Klein (1984)"
 author: "Curso de Jurimetria"
-format: revealjs
+format:
+  revealjs:
+    scrollable: true
 ---
 
-## Por que este artigo é fundamental?
+## Por que este artigo é fundamental? {.scrollable}
 
 - Publicado em 1984, no *Journal of Legal Studies*.
 - Um dos artigos mais influentes da Análise Econômica do Direito.
@@ -22,7 +24,7 @@ Tese central:
 > Os casos que chegam a julgamento não são representativos do conjunto total de disputas.
 
 
-## O Problema metodológico central
+## O Problema metodológico central {.scrollable}
 
 Grande parte do que sabemos sobre o direito vem de:
 
@@ -42,7 +44,7 @@ Pergunta crucial:
 > Podemos inferir como o direito opera a partir apenas dos casos julgados?
 
 
-## A Suposição implícita na literatura
+## A Suposição implícita na literatura {.scrollable}
 
 Muitos estudos assumem que:
 
@@ -55,7 +57,7 @@ Muitos estudos assumem que:
 
 Priest & Klein mostram que essa suposição é equivocada.
 
-## Crítica a abordagens anteriores
+## Crítica a abordagens anteriores {.scrollable}
 
 ### Karl Llewellyn
 
@@ -76,7 +78,7 @@ Ou seja:
 > A seleção ocorre antes da decisão judicial.
 
 
-## Inferências problemáticas
+## Inferências problemáticas {.scrollable}
 
 Exemplos criticados no artigo:
 
@@ -90,7 +92,7 @@ Todas essas inferências ignoram:
 
 > O processo de seleção entre acordo e decisão.
 
-## A Ideia revolucionária
+## A Ideia revolucionária {.scrollable}
 
 O artigo propõe um modelo formal do processo de:
 
@@ -110,7 +112,7 @@ Assim:
 > O julgamento observa apenas uma fração específica e filtrada das disputas.
 
 
-## Determinantes da decisão de litigar
+## Determinantes da decisão de litigar {.scrollable}
 
 A decisão entre acordo e julgamento depende de:
 
@@ -131,7 +133,7 @@ Se há divergência suficiente:
 → Litígio -> decisão.
 
 
-## Suposição fundamental
+## Suposição fundamental {.scrollable}
 
 O modelo assume:
 
@@ -145,7 +147,7 @@ O julgamento ocorre quando:
 
 ---
 
-## O Modelo do “limite decisório”
+## O Modelo do “limite decisório” {.scrollable}
 
 As disputas variam ao longo de um continuum:
 
@@ -165,7 +167,7 @@ A litigância se concentra perto desse ponto.
 
 ---
 
-## O Resultado dos 50%
+## O Resultado dos 50% {.scrollable}
 
 Sob condições simétricas:
 
@@ -186,7 +188,7 @@ Este é o famoso **“50% Hypothesis”**.
 
 ---
 
-## Por que 50%?
+## Por que 50%? {.scrollable}
 
 Porque:
 
@@ -200,7 +202,7 @@ Só restam para julgamento:
 
 E nesses casos, a probabilidade é aproximadamente equilibrada.
 
-## Implicação metodológica profunda
+## Implicação metodológica profunda {.scrollable}
 
 A taxa observada de vitória:
 
@@ -213,7 +215,7 @@ Ela mede:
 > O resultado de um processo estratégico de seleção.
 
 
-## Quando o resultado não é 50%?
+## Quando o resultado não é 50%? {.scrollable}
 
 O artigo relaxa as hipóteses básicas.
 
@@ -227,7 +229,7 @@ Desvios ocorrem quando há:
 
 ---
 
-## Assimetria de riscos(stakes)
+## Assimetria de riscos(stakes) {.scrollable}
 
 Exemplo clássico:
 
@@ -251,7 +253,7 @@ subtitle: "Seção II – Preliminary Assumptions"
 author: "Curso de Jurimetria"
 format: revealjs
 
-## Objetivo da Seção II
+## Objetivo da Seção II {.scrollable}
 
 - Formalizar o modelo de seleção
 - Explicitar pressupostos
@@ -260,7 +262,7 @@ format: revealjs
 
 Esta seção é o núcleo técnico do artigo.
 
-## O Que São “Preliminary Assumptions”?
+## O Que São “Preliminary Assumptions”? {.scrollable}
 
 São hipóteses estruturais que:
 
@@ -270,7 +272,7 @@ São hipóteses estruturais que:
 
 Sem elas, o modelo não produz previsões claras.
 
-## Pressuposto 1  
+## Pressuposto 1 {.scrollable}  
 ### O que é uma “disputa”?
 
 Uma disputa é:
@@ -279,7 +281,7 @@ Uma disputa é:
 
 Nada mais é modelado nesta etapa.
 
-## Pressuposto 2  
+## Pressuposto 2 {.scrollable}  
 ### Como a disputa termina?
 
 Existem apenas duas possibilidades:
@@ -289,7 +291,7 @@ Existem apenas duas possibilidades:
 
 Somente veredictos são observáveis.
 
-## Implicação Empírica
+## Implicação Empírica {.scrollable}
 
 A base de dados judicial contém:
 
@@ -300,7 +302,7 @@ Logo:
 
 Há seleção estrutural na amostra.
 
-## Pressuposto 3  
+## Pressuposto 3 {.scrollable}  
 ### Estrutura Binária do Resultado
 
 O julgamento só pode resultar em:
@@ -310,7 +312,7 @@ O julgamento só pode resultar em:
 
 Não há gradação de responsabilidade nesta fase do modelo.
 
-## Pressuposto 4  
+## Pressuposto 4 {.scrollable}  
 ### Distribuição Exógena das Disputas
 
 A distribuição inicial das disputas é:
@@ -320,7 +322,7 @@ A distribuição inicial das disputas é:
 
 O modelo explica resolução, não geração de litígios.
 
-## Pressuposto 5  
+## Pressuposto 5 {.scrollable}  
 ### Modelo de Período Único
 
 Não há:
@@ -332,7 +334,7 @@ Não há:
 
 É um modelo estático.
 
-## Por que isso importa?
+## Por que isso importa? {.scrollable}
 
 Se houvesse dinâmica:
 
@@ -342,7 +344,7 @@ Se houvesse dinâmica:
 
 A hipótese dos 50% depende da ausência desses efeitos.
 
-## Pressuposto 6  
+## Pressuposto 6 {.scrollable}  
 ### Existência de um Padrão Decisório (Y*)
 
 Existe um ponto de corte tal que:
@@ -352,7 +354,7 @@ Existe um ponto de corte tal que:
 
 A decisão é um modelo de threshold.
 
-## O Que é Y?
+## O Que é Y? {.scrollable}
 
 Y é:
 
@@ -361,7 +363,7 @@ Y é:
 
 Transformação jurídica dos fatos.
 
-## Pressuposto 7  
+## Pressuposto 7 {.scrollable}  
 ### Consistência na Aplicação
 
 O padrão é:
@@ -372,7 +374,7 @@ Não é necessário uniformidade entre juízes.
 
 Mas é necessário previsibilidade suficiente.
 
-## Pressuposto 8  
+## Pressuposto 8 {.scrollable}  
 ### Independência do Valor da Causa
 
 O ponto de corte Y*:
@@ -381,7 +383,7 @@ O ponto de corte Y*:
 
 O padrão jurídico é neutro em relação aos stakes.
 
-## Pressuposto 9  
+## Pressuposto 9 {.scrollable}  
 ### Incerteza Imperfeita
 
 Cada caso tem um valor verdadeiro Y′.
@@ -397,7 +399,7 @@ Erros são:
 - Média zero
 - Mesma variância
 
-## Interpretação
+## Interpretação {.scrollable}
 
 As partes:
 
@@ -407,7 +409,7 @@ As partes:
 
 A divergência gera litigância.
 
-## Pressuposto 10  
+## Pressuposto 10 {.scrollable}  
 ### Conhecimento da Distribuição
 
 Para calcular probabilidades, as partes devem conhecer:
@@ -418,7 +420,7 @@ Para calcular probabilidades, as partes devem conhecer:
 
 Isso sugere vantagem informacional de repeat players.
 
-## Pressuposto 11  
+## Pressuposto 11 {.scrollable}  
 ### Simetria Inicial de Stakes
 
 O modelo assume:
@@ -429,7 +431,7 @@ O modelo assume:
 
 Simetria é essencial para o resultado dos 50%.
 
-## Estrutura Geral Criada
+## Estrutura Geral Criada {.scrollable}
 
 Esses pressupostos criam:
 
@@ -442,7 +444,7 @@ O próximo passo será:
 
 Derivar formalmente a condição de acordo vs julgamento.
 
-## Pergunta para Reflexão
+## Pergunta para Reflexão {.scrollable}
 
 Se removemos:
 
@@ -453,7 +455,7 @@ Se removemos:
 A taxa de vitória ainda tende a 50%?
 
 
-## Seção II
+## Seção II {.scrollable}
 
 - Formalizar o modelo de seleção  
 - Explicitar os pressupostos  
@@ -462,7 +464,7 @@ A taxa de vitória ainda tende a 50%?
 
 Esta é a parte tecnicamente central do artigo.
 
-## O que são preliminary assumptions?
+## O que são preliminary assumptions? {.scrollable}
 
 São hipóteses estruturais que:
 
@@ -472,7 +474,7 @@ São hipóteses estruturais que:
 
 Sem elas, o modelo não produz previsões claras.
 
-## Pressuposto 1: definição de disputa
+## Pressuposto 1: definição de disputa {.scrollable}
 
 Uma disputa é:
 
@@ -480,7 +482,7 @@ Uma disputa é:
 
 O modelo começa apenas a partir da existência da disputa.
 
-## Pressuposto 2: formas de encerramento
+## Pressuposto 2: formas de encerramento {.scrollable}
 
 Uma disputa pode terminar em:
 
@@ -489,7 +491,7 @@ Uma disputa pode terminar em:
 
 Somente veriditos são considerados “litigados”.
 
-## Implicação empírica imediata
+## Implicação empírica imediata {.scrollable}
 
 A base observável contém:
 
@@ -498,7 +500,7 @@ A base observável contém:
 
 Logo, há seleção estrutural na amostra.
 
-## Pressuposto 3: estrutura binária do resultado
+## Pressuposto 3: estrutura binária do resultado {.scrollable}
 
 O julgamento só pode resultar em:
 
@@ -507,7 +509,7 @@ O julgamento só pode resultar em:
 
 Não há gradação nesta etapa do modelo.
 
-## Pressuposto 4: distribuição exógena das disputas
+## Pressuposto 4: distribuição exógena das disputas {.scrollable}
 
 A distribuição inicial das disputas é:
 
@@ -516,7 +518,7 @@ A distribuição inicial das disputas é:
 
 O modelo trata da resolução, não da origem dos litígios.
 
-## Pressuposto 5: modelo de período único
+## Pressuposto 5: modelo de período único {.scrollable}
 
 Não há:
 
@@ -527,7 +529,7 @@ Não há:
 
 O modelo é estático.
 
-## Por que isso importa?
+## Por que isso importa? {.scrollable}
 
 Se houvesse dinâmica:
 
@@ -537,7 +539,7 @@ Se houvesse dinâmica:
 
 A hipótese dos 50% depende dessa neutralidade.
 
-## Pressuposto 6: existência de um padrão decisório
+## Pressuposto 6: existência de um padrão decisório {.scrollable}
 
 Existe um ponto de corte Y* tal que:
 
@@ -546,7 +548,7 @@ Existe um ponto de corte Y* tal que:
 
 A decisão judicial é modelada como um corte (threshold).
 
-## O que representa Y?
+## O que representa Y? {.scrollable}
 
 Y é:
 
@@ -555,7 +557,7 @@ Y é:
 
 É a transformação jurídica dos fatos do caso.
 
-## Pressuposto 7: consistência na aplicação
+## Pressuposto 7: consistência na aplicação {.scrollable}
 
 O padrão decisório é:
 
@@ -564,7 +566,7 @@ O padrão decisório é:
 Não exige uniformidade entre juízes.  
 Exige previsibilidade suficiente.
 
-## Pressuposto 8: independência do valor da causa
+## Pressuposto 8: independência do valor da causa {.scrollable}
 
 O ponto de corte Y*:
 
@@ -572,7 +574,7 @@ O ponto de corte Y*:
 
 O padrão jurídico é neutro em relação aos stakes.
 
-## Pressuposto 9: incerteza imperfeita
+## Pressuposto 9: incerteza imperfeita {.scrollable}
 
 Cada caso possui um valor verdadeiro Y′.
 
@@ -583,7 +585,7 @@ Yd = Y′ + εd
 
 Há erro, mas não viés sistemático.
 
-## Características do erro
+## Características do erro {.scrollable}
 
 Os erros são:
 
@@ -593,7 +595,7 @@ Os erros são:
 
 As partes erram, mas de forma simétrica.
 
-## Pressuposto 10: conhecimento da distribuição
+## Pressuposto 10: conhecimento da distribuição {.scrollable}
 
 Para estimar probabilidades, as partes devem conhecer:
 
@@ -603,7 +605,7 @@ Para estimar probabilidades, as partes devem conhecer:
 
 Isso sugere vantagem informacional de litigantes experientes.
 
-## Pressuposto 11: simetria inicial de stakes
+## Pressuposto 11: simetria inicial de stakes {.scrollable}
 
 O modelo assume:
 
@@ -613,7 +615,7 @@ O modelo assume:
 
 A simetria é condição da hipótese dos 50%.
 
-## Estrutura criada pelos pressupostos
+## Estrutura criada pelos pressupostos {.scrollable}
 
 O ambiente resultante é:
 
@@ -624,7 +626,7 @@ O ambiente resultante é:
 
 O próximo passo será derivar a condição formal de acordo vs julgamento.
 
-## Pergunta para reflexão
+## Pergunta para reflexão {.scrollable}
 
 Se removermos:
 
